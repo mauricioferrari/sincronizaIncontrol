@@ -9,104 +9,105 @@
 """ Modulo de integração com a API Intelbras Incontrol para ações básicas"""  
 # ---------------------------------------------------------------------------
 from datetime import datetime
+import json
 from pickle import FALSE
 from time import sleep
 import requests
 
-#Parametros do servidor Incontrol {
-usr="admin"
-pwd="admin"
-srv="172.32.1.22"
-port="4441"
-srvadd="http://" + srv + ":" + port
-#}
+def lerCred():
+    # Abra o arquivo JSON para leitura
+    with open('jcred.json', 'r') as arquivo_json:
+        # Use a função load para carregar o JSON em um dicionário
+        credenciais = json.load(arquivo_json)  #Armazena as credencias em um dicionario
+        credenciais["apiserver"]="https://"+str(credenciais["srv"])+":"+str(credenciais["port"])
+        print(credenciais)
+    return(credenciais)
 
 #GERA O TOKEN UTILIZADO NAS TRANSAÇÕES DA API
-def geratoken(usr,pwd,srvadd): 
+def geratoken():
+    credenciais=lerCred()
     payload={
-        "username":""+usr+"",
-	    "password":""+pwd+""
+        "username":""+credenciais["username"]+"",
+	    "password":""+credenciais["password"]+""
     }
-    tokenadd=(srvadd + "/v1/auth/")
-    r = requests.post(tokenadd, json=payload)
+    tokenadd=(credenciais["apiserver"] + "/v1/auth/")
+    r = requests.post(tokenadd, json=payload, verify=False)
     data = r.json()
     return(data['token'])
 #}
 
 # ENVIA USUÁRIOS PARA A API {
-def enviausr(token,nome_completo,matricula):
-    datetime_atuais = datetime.now()
-    datetime_stamp= str("Criado via script em " + datetime_atuais.strftime('%d/%m/%Y'))
+# def enviausr(token,nome_completo,matricula):
+#     datetime_atuais = datetime.now()
+#     datetime_stamp= str("Criado via script em " + datetime_atuais.strftime('%d/%m/%Y'))
     
-    payload_usr={
-  "pessoa": {
-    "nome_completo": nome_completo,
-    "cpf": "",
-    "rg": "",
-    "telefone_celular": "",
-    "email": "",
-    "veiculo": {
-      "placa_numero": "",
-      "placa_letra": "",
-      "marca": {
-        "id": ""
-      },
-      "cor": "",
-      "modelo": ""
-    },
-    "grupo": {
-      "id": 1
-    }
-  },
-  "departamento": {
-    "id": 1
-  },
-  "matricula": matricula,
-  "tipo_usuario": {
-    "id": "N"
-  },
-  "estado": True,
-  "data_contratacao": "" ,
-  "data_demissao": "" ,
-  "observacoes": datetime_stamp,
-  "campos_personalizados": {
-    "campo_1": ""
-  }
-}
+#     payload_usr={
+#   "pessoa": {
+#     "nome_completo": nome_completo,
+#     "cpf": "",
+#     "rg": "",
+#     "telefone_celular": "",
+#     "email": "",
+#     "veiculo": {
+#       "placa_numero": "",
+#       "placa_letra": "",
+#       "marca": {
+#         "id": ""
+#       },
+#       "cor": "",
+#       "modelo": ""
+#     },
+#     "grupo": {
+#       "id": 1
+#     }
+#   },
+#   "departamento": {
+#     "id": 1
+#   },
+#   "matricula": matricula,
+#   "tipo_usuario": {
+#     "id": "N"
+#   },
+#   "estado": True,
+#   "data_contratacao": "" ,
+#   "data_demissao": "" ,
+#   "observacoes": datetime_stamp,
+#   "campos_personalizados": {
+#     "campo_1": ""
+#   }
+# }
 
-    header_usr={
-        "Content-Type":"application/json",
-        "Authorization":"JWT " + token
-    }
-    tokenusr=(srvadd + "/v1/usuario/")
-    r = requests.post(tokenusr, headers=header_usr, json=payload_usr)
-    data = r.json()
-    return(data['data'])
-#}
+#     header_usr={
+#         "Content-Type":"application/json",
+#         "Authorization":"JWT " + token
+#     }
+#     tokenusr=(srvadd + "/v1/usuario/")
+#     r = requests.post(tokenusr, headers=header_usr, json=payload_usr)
+#     data = r.json()
+#     return(data['data'])
+# #}
 
 #RECEBE LISTA DE USUÁRIOS DA API {
 def recebeusr(token):
+    credenciais=lerCred()
     header_usr={
         "Content-Type":"application/json",
         "Authorization":"JWT " + token
     }
-    tokenusr=(srvadd + "/v1/usuario/")
-    r = requests.get(tokenusr, headers=header_usr)
+    tokenusr=(credenciais["apiserver"] + "/v1/usuario/")
+    r = requests.get(tokenusr, headers=header_usr, verify=False)
     data = r.json()
-    usrs=data['data']
-    cnt=0
     pessoas={}
-    while len(usrs)>cnt:
-        matricula=(usrs[cnt]['matricula'])
-        id=usrs[cnt]['id']
-        nome_completo=usrs[cnt]['pessoa']['nome_completo']
-        pessoas[matricula]={'id':id,'nome':nome_completo}
-        cnt+=1
+    for each in data["data"]:
+       pessoas[each['matricula']]={
+           'id':each['pessoa']['id'],
+           "nome":each["pessoa"]["nome_completo"]
+           }
     return(pessoas)
     #}
 
 #ENVIA CREDENCIAL PARA A API {
-def enviacartao(token,id_pessoa,cartao):
+def enviacartao(token,id_pessoa,cartao, verify=False):
     header_crt={
         "Content-Type":"application/json",
         "Authorization":"JWT " + token
@@ -265,6 +266,7 @@ def removeusuario(usuario):
 
 
 
-tkn=geratoken(usr,pwd,srvadd)
-crt_cad=recebecrtcadastrados(tkn)
-print(crt_cad)
+var=(recebeusr(geratoken()))
+print(var['123582'])
+# crt_cad=recebecrtcadastrados(tkn)
+# print(crt_cad)

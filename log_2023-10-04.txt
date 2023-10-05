@@ -1,0 +1,2172 @@
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol
+Recebendo cartões da API Incontrol
+Recebendo decimais de cartões da API Incontrol
+Recebendo usuários da API Incontrol
+O usuário None está OK
+O usuário 132751 está OK
+O usuário 155071 está OK
+O usuário 155090 está OK
+O usuário 154785 está OK
+O usuário 154930 está OK
+O usuário 154902 está OK
+O usuário 154904 está OK
+O usuário 154905 não foi localizado na catraca, iniciar exclusão
+O usuário 154906 está OK
+O usuário 154907 está OK
+O usuário 154909 está OK
+O usuário 154910 não foi localizado na catraca, iniciar exclusão
+O usuário 154911 não foi localizado na catraca, iniciar exclusão
+O usuário 154912 está OK
+O usuário 154913 está OK
+O usuário 154916 está OK
+O usuário 154919 está OK
+O usuário 154921 não foi localizado na catraca, iniciar exclusão
+O usuário 154922 está OK
+O usuário 154923 está OK
+O usuário 154924 está OK
+O usuário 154926 não foi localizado na catraca, iniciar exclusão
+O usuário 154928 está OK
+O usuário 154929 não foi localizado na catraca, iniciar exclusão
+O usuário 154931 não foi localizado na catraca, iniciar exclusão
+O usuário 154933 está OK
+O usuário 154935 não foi localizado na catraca, iniciar exclusão
+O usuário 154936 não foi localizado na catraca, iniciar exclusão
+O usuário 154937 está OK
+O usuário 154940 está OK
+O usuário 154941 está OK
+O usuário 154943 está OK
+O usuário 154970 não foi localizado na catraca, iniciar exclusão
+O usuário 154969 não foi localizado na catraca, iniciar exclusão
+O usuário 154964 está OK
+O usuário 154963 não foi localizado na catraca, iniciar exclusão
+O usuário 154958 está OK
+O usuário 154957 está OK
+O usuário 154953 está OK
+O usuário 154942 está OK
+O usuário 154925 está OK
+O usuário 154920 está OK
+O usuário 154918 está OK
+O usuário 154917 não foi localizado na catraca, iniciar exclusão
+O usuário 154915 está OK
+O usuário 154914 não foi localizado na catraca, iniciar exclusão
+O usuário 154971 não foi localizado na catraca, iniciar exclusão
+O usuário 154966 não foi localizado na catraca, iniciar exclusão
+O usuário 154965 não foi localizado na catraca, iniciar exclusão
+O usuário 154962 está OK
+O usuário 154961 está OK
+O usuário 154944 não foi localizado na catraca, iniciar exclusão
+O usuário 154946 não foi localizado na catraca, iniciar exclusão
+O usuário 154947 está OK
+O usuário 154948 não foi localizado na catraca, iniciar exclusão
+O usuário 154949 não foi localizado na catraca, iniciar exclusão
+O usuário 154950 não foi localizado na catraca, iniciar exclusão
+O usuário 154951 está OK
+O usuário 154960 está OK
+O usuário 154956 não foi localizado na catraca, iniciar exclusão
+O usuário 154955 está OK
+O usuário 130628 está OK
+O usuário 154551 está OK
+O usuário 13606491 não foi localizado na catraca, iniciar exclusão
+O usuário 154382 está OK
+O usuário 154381 está OK
+O usuário 154380 está OK
+O usuário 154379 não foi localizado na catraca, iniciar exclusão
+O usuário 154464 está OK
+O usuário 154462 não foi localizado na catraca, iniciar exclusão
+O usuário 154376 está OK
+O usuário 154375 está OK
+O usuário 154460 está OK
+O usuário 154459 não foi localizado na catraca, iniciar exclusão
+O usuário 154372 está OK
+O usuário 154371 está OK
+O usuário 154370 está OK
+O usuário 154369 está OK
+O usuário 154366 está OK
+O usuário 154365 está OK
+O usuário 154457 não foi localizado na catraca, iniciar exclusão
+O usuário 135679 está OK
+O usuário 154336 está OK
+O usuário 154333 está OK
+O usuário 154332 não foi localizado na catraca, iniciar exclusão
+O usuário 154331 não foi localizado na catraca, iniciar exclusão
+O usuário 154329 não foi localizado na catraca, iniciar exclusão
+O usuário 154327 não foi localizado na catraca, iniciar exclusão
+O usuário 154326 está OK
+O usuário 154325 está OK
+O usuário 154324 está OK
+O usuário 154441 está OK
+O usuário 154323 está OK
+O usuário 154322 está OK
+O usuário 154321 está OK
+O usuário 151981 está OK
+O usuário 154456 está OK
+O usuário 154357 está OK
+O usuário 154356 está OK
+O usuário 154355 está OK
+O usuário 154347 não foi localizado na catraca, iniciar exclusão
+O usuário 154346 não foi localizado na catraca, iniciar exclusão
+O usuário 154345 está OK
+O usuário 154344 está OK
+O usuário 154342 está OK
+O usuário 154452 não foi localizado na catraca, iniciar exclusão
+O usuário 154450 está OK
+O usuário 154340 está OK
+O usuário 154339 está OK
+O usuário 129752 está OK
+O usuário 154360 está OK
+O usuário 154358 está OK
+O usuário 154454 está OK
+O usuário 154352 não foi localizado na catraca, iniciar exclusão
+O usuário 154334 está OK
+O usuário 154446 está OK
+O usuário 154444 está OK
+O usuário 154443 está OK
+O usuário 154440 está OK
+O usuário 113677 não foi localizado na catraca, iniciar exclusão
+O usuário 153906 não foi localizado na catraca, iniciar exclusão
+O usuário 153908 está OK
+O usuário 153911 não foi localizado na catraca, iniciar exclusão
+O usuário 153913 não foi localizado na catraca, iniciar exclusão
+O usuário 153915 está OK
+O usuário 153916 está OK
+O usuário 153917 está OK
+O usuário 118938 está OK
+O usuário 134018 está OK
+O usuário 153974 está OK
+O usuário 153875 não foi localizado na catraca, iniciar exclusão
+O usuário 153876 está OK
+O usuário 153880 está OK
+O usuário 153881 não foi localizado na catraca, iniciar exclusão
+O usuário 153882 está OK
+O usuário 143884 está OK
+O usuário 153885 está OK
+O usuário 153886 está OK
+O usuário 153887 não foi localizado na catraca, iniciar exclusão
+O usuário 153888 está OK
+O usuário 153889 não foi localizado na catraca, iniciar exclusão
+O usuário 153890 está OK
+O usuário 153948 está OK
+O usuário 153950 não foi localizado na catraca, iniciar exclusão
+O usuário 153952 está OK
+O usuário 153953 não foi localizado na catraca, iniciar exclusão
+O usuário 153956 não foi localizado na catraca, iniciar exclusão
+O usuário 153957 está OK
+O usuário 153958 está OK
+O usuário 153959 não foi localizado na catraca, iniciar exclusão
+O usuário 153961 não foi localizado na catraca, iniciar exclusão
+O usuário 153962 está OK
+O usuário 153949 não foi localizado na catraca, iniciar exclusão
+O usuário 153947 está OK
+O usuário 153946 está OK
+O usuário 153904 está OK
+O usuário 153902 está OK
+O usuário 153899 não foi localizado na catraca, iniciar exclusão
+O usuário 153897 está OK
+O usuário 153896 não foi localizado na catraca, iniciar exclusão
+O usuário 153905 está OK
+O usuário 153895 não foi localizado na catraca, iniciar exclusão
+O usuário 153893 não foi localizado na catraca, iniciar exclusão
+O usuário 153891 está OK
+O usuário 154112 não foi localizado na catraca, iniciar exclusão
+O usuário 154109 não foi localizado na catraca, iniciar exclusão
+O usuário 154108 está OK
+O usuário 154107 está OK
+O usuário 154105 está OK
+O usuário 153936 não foi localizado na catraca, iniciar exclusão
+O usuário 154103 está OK
+O usuário 154102 não foi localizado na catraca, iniciar exclusão
+O usuário 154101 não foi localizado na catraca, iniciar exclusão
+O usuário 154100 está OK
+O usuário 154099 está OK
+O usuário 154098 está OK
+O usuário 154097 não foi localizado na catraca, iniciar exclusão
+O usuário 154096 está OK
+O usuário 154095 não foi localizado na catraca, iniciar exclusão
+O usuário 154093 está OK
+O usuário 153940 não foi localizado na catraca, iniciar exclusão
+O usuário 153939 está OK
+O usuário 153937 está OK
+O usuário 153935 não foi localizado na catraca, iniciar exclusão
+O usuário 153931 está OK
+O usuário 153928 está OK
+O usuário 153924 não foi localizado na catraca, iniciar exclusão
+O usuário 153922 não foi localizado na catraca, iniciar exclusão
+O usuário 153920 está OK
+O usuário 153919 está OK
+O usuário 153918 está OK
+O usuário 13356296 está OK
+O usuário 129727 está OK
+O usuário 137200 não foi localizado na catraca, iniciar exclusão
+O usuário 137249 está OK
+O usuário 138907 não foi localizado na catraca, iniciar exclusão
+O usuário 139832 está OK
+O usuário 142603 está OK
+O usuário 150193 não foi localizado na catraca, iniciar exclusão
+O usuário 150225 não foi localizado na catraca, iniciar exclusão
+O usuário 151849 está OK
+O usuário 151861 está OK
+O usuário 151878 está OK
+O usuário 151892 está OK
+O usuário 151965 está OK
+O usuário 152069 está OK
+O usuário 152280 está OK
+O usuário 152304 está OK
+O usuário 152412 está OK
+O usuário 151140 está OK
+O usuário 151651 não foi localizado na catraca, iniciar exclusão
+O usuário 151663 está OK
+O usuário 151673 está OK
+O usuário 151681 não foi localizado na catraca, iniciar exclusão
+O usuário 151687 não foi localizado na catraca, iniciar exclusão
+O usuário 151718 está OK
+O usuário 139018 está OK
+O usuário 139009 não foi localizado na catraca, iniciar exclusão
+O usuário 139008 não foi localizado na catraca, iniciar exclusão
+O usuário 139004 está OK
+O usuário 138994 está OK
+O usuário 138909 está OK
+O usuário 137242 está OK
+O usuário 136880 está OK
+O usuário 136874 não foi localizado na catraca, iniciar exclusão
+O usuário 136854 está OK
+O usuário 135676 está OK
+O usuário 151114 está OK
+O usuário 150801 está OK
+O usuário 150765 não foi localizado na catraca, iniciar exclusão
+O usuário 150701 está OK
+O usuário 150227 está OK
+O usuário 150222 está OK
+O usuário 142811 não foi localizado na catraca, iniciar exclusão
+O usuário 142703 está OK
+O usuário 133672 está OK
+O usuário 133666 está OK
+O usuário 133458 está OK
+O usuário 133456 está OK
+O usuário 113706 está OK
+O usuário 134678 não foi localizado na catraca, iniciar exclusão
+O usuário 134672 está OK
+O usuário 134639 está OK
+O usuário 134255 está OK
+O usuário 134252 está OK
+O usuário 133991 está OK
+O usuário 133670 não foi localizado na catraca, iniciar exclusão
+O usuário 133420 está OK
+O usuário 123095 está OK
+O usuário 118672 não foi localizado na catraca, iniciar exclusão
+O usuário 135632 está OK
+O usuário 135126 está OK
+O usuário 134237 está OK
+O usuário 134234 está OK
+O usuário 134229 não foi localizado na catraca, iniciar exclusão
+O usuário 134215 não foi localizado na catraca, iniciar exclusão
+O usuário 134001 está OK
+O usuário 114461 não foi localizado na catraca, iniciar exclusão
+O usuário 133429 não foi localizado na catraca, iniciar exclusão
+O usuário 133280 não foi localizado na catraca, iniciar exclusão
+O usuário 133065 está OK
+O usuário 132920 não foi localizado na catraca, iniciar exclusão
+O usuário 132893 está OK
+O usuário 132793 está OK
+O usuário 132467 está OK
+O usuário 139966 está OK
+O usuário 129961 não foi localizado na catraca, iniciar exclusão
+O usuário 129892 está OK
+O usuário 129766 está OK
+O usuário 123083 está OK
+O usuário 139869 está OK
+O usuário 139827 está OK
+O usuário 139031 não foi localizado na catraca, iniciar exclusão
+O usuário 139029 está OK
+O usuário 139023 está OK
+O usuário 151475 não foi localizado na catraca, iniciar exclusão
+O usuário 151863 não foi localizado na catraca, iniciar exclusão
+O usuário 151883 está OK
+O usuário 152261 está OK
+O usuário 131716 está OK
+O usuário 139834 está OK
+O usuário 112547 não foi localizado na catraca, iniciar exclusão
+O usuário 113596 está OK
+O usuário 134216 está OK
+O usuário 133873 está OK
+O usuário 133868 está OK
+O usuário 133644 está OK
+O usuário 131838 está OK
+O usuário 131685 está OK
+O usuário 134622 não foi localizado na catraca, iniciar exclusão
+O usuário 134644 está OK
+O usuário 134652 está OK
+O usuário 135707 não foi localizado na catraca, iniciar exclusão
+O usuário 135715 está OK
+O usuário 136861 está OK
+O usuário 136849 está OK
+O usuário 136881 está OK
+O usuário 139015 está OK
+O usuário 135620 não foi localizado na catraca, iniciar exclusão
+O usuário 135124 está OK
+O usuário 151502 está OK
+O usuário 151491 está OK
+O usuário 150204 está OK
+O usuário 142628 não foi localizado na catraca, iniciar exclusão
+O usuário 150804 está OK
+O usuário 151159 não foi localizado na catraca, iniciar exclusão
+O usuário 150555 está OK
+O usuário 151966 está OK
+O usuário 151176 não foi localizado na catraca, iniciar exclusão
+O usuário 142617 está OK
+O usuário 142769 está OK
+O usuário 142810 não foi localizado na catraca, iniciar exclusão
+O usuário 142814 não foi localizado na catraca, iniciar exclusão
+O usuário 150529 está OK
+O usuário 135706 não foi localizado na catraca, iniciar exclusão
+O usuário 153439 está OK
+O usuário 153423 não foi localizado na catraca, iniciar exclusão
+O usuário 5034693 não foi localizado na catraca, iniciar exclusão
+O usuário 152526 não foi localizado na catraca, iniciar exclusão
+O usuário 153396 não foi localizado na catraca, iniciar exclusão
+O usuário 153433 está OK
+O usuário 153427 está OK
+O usuário 153450 não foi localizado na catraca, iniciar exclusão
+O usuário 153407 está OK
+O usuário 153455 está OK
+O usuário 153404 está OK
+O usuário 153403 está OK
+O usuário 153444 não foi localizado na catraca, iniciar exclusão
+O usuário 153402 está OK
+O usuário 153401 está OK
+O usuário 153400 não foi localizado na catraca, iniciar exclusão
+O usuário 153399 não foi localizado na catraca, iniciar exclusão
+O usuário 153397 não foi localizado na catraca, iniciar exclusão
+O usuário 153395 está OK
+O usuário 153393 não foi localizado na catraca, iniciar exclusão
+O usuário 153392 está OK
+O usuário 153391 está OK
+O usuário 153390 está OK
+O usuário 153389 não foi localizado na catraca, iniciar exclusão
+O usuário 153384 está OK
+O usuário 153383 não foi localizado na catraca, iniciar exclusão
+O usuário 153382 está OK
+O usuário 153381 está OK
+O usuário 153378 está OK
+O usuário 153375 não foi localizado na catraca, iniciar exclusão
+O usuário 153374 está OK
+O usuário 153373 está OK
+O usuário 153370 não foi localizado na catraca, iniciar exclusão
+O usuário 153369 está OK
+O usuário 153368 está OK
+O usuário 153367 está OK
+O usuário 153438 está OK
+O usuário 137810 está OK
+O usuário 152299 está OK
+O usuário 152125 não foi localizado na catraca, iniciar exclusão
+O usuário 152077 está OK
+O usuário 151989 está OK
+O usuário 151976 está OK
+O usuário 151893 está OK
+O usuário 151887 está OK
+O usuário 151869 está OK
+O usuário 151854 está OK
+O usuário 151778 não foi localizado na catraca, iniciar exclusão
+O usuário 151668 está OK
+O usuário 151495 está OK
+O usuário 150808 não foi localizado na catraca, iniciar exclusão
+O usuário 150802 está OK
+O usuário 150798 está OK
+O usuário 150796 não foi localizado na catraca, iniciar exclusão
+O usuário 150235 está OK
+O usuário 145018 não foi localizado na catraca, iniciar exclusão
+O usuário 139825 está OK
+O usuário 139823 está OK
+O usuário 139010 está OK
+O usuário 139002 não foi localizado na catraca, iniciar exclusão
+O usuário 138978 está OK
+O usuário 137800 não foi localizado na catraca, iniciar exclusão
+O usuário 137266 está OK
+O usuário 135646 está OK
+O usuário 135634 está OK
+O usuário 135109 está OK
+O usuário 134684 está OK
+O usuário 134681 está OK
+O usuário 134244 está OK
+O usuário 134225 está OK
+O usuário 134222 está OK
+O usuário 134017 está OK
+O usuário 133669 está OK
+O usuário 133421 não foi localizado na catraca, iniciar exclusão
+O usuário 133417 não foi localizado na catraca, iniciar exclusão
+O usuário 133284 está OK
+O usuário 133264 não foi localizado na catraca, iniciar exclusão
+O usuário 133064 está OK
+O usuário 133050 está OK
+O usuário 133045 está OK
+O usuário 131974 está OK
+O usuário 131949 está OK
+O usuário 131934 não foi localizado na catraca, iniciar exclusão
+O usuário 131524 está OK
+O usuário 129967 está OK
+O usuário 129965 está OK
+O usuário 153454 está OK
+O usuário 153432 está OK
+O usuário 153431 não foi localizado na catraca, iniciar exclusão
+O usuário 153429 não foi localizado na catraca, iniciar exclusão
+O usuário 153428 está OK
+O usuário 153451 está OK
+O usuário 153426 está OK
+O usuário 153425 não foi localizado na catraca, iniciar exclusão
+O usuário 153424 está OK
+O usuário 153420 não foi localizado na catraca, iniciar exclusão
+O usuário 153372 está OK
+O usuário 153380 não foi localizado na catraca, iniciar exclusão
+O usuário 153388 está OK
+O usuário 153443 não foi localizado na catraca, iniciar exclusão
+O usuário 153398 está OK
+O usuário 153418 está OK
+O usuário 153417 está OK
+O usuário 153413 está OK
+O usuário 153412 não foi localizado na catraca, iniciar exclusão
+O usuário 153411 não foi localizado na catraca, iniciar exclusão
+O usuário 153410 está OK
+O usuário 153449 está OK
+O usuário 153446 está OK
+O usuário 153408 está OK
+O usuário 153406 está OK
+O usuário 153445 está OK
+O usuário 13612856 está OK
+O usuário 7761589 não foi localizado na catraca, iniciar exclusão
+O usuário 129871 está OK
+O usuário 133985 não foi localizado na catraca, iniciar exclusão
+O usuário 137206 não foi localizado na catraca, iniciar exclusão
+O usuário 131497 não foi localizado na catraca, iniciar exclusão
+O usuário 118933 está OK
+O usuário 152704 não foi localizado na catraca, iniciar exclusão
+O usuário 152709 não foi localizado na catraca, iniciar exclusão
+O usuário 152708 está OK
+O usuário 152710 está OK
+O usuário 152713 está OK
+O usuário 152722 está OK
+O usuário 152714 não foi localizado na catraca, iniciar exclusão
+O usuário 152717 está OK
+O usuário 152721 está OK
+O usuário 152854 está OK
+O usuário 152727 está OK
+O usuário 152729 não foi localizado na catraca, iniciar exclusão
+O usuário 152689 não foi localizado na catraca, iniciar exclusão
+O usuário 152692 está OK
+O usuário 152681 está OK
+O usuário 152740 está OK
+O usuário 152702 não foi localizado na catraca, iniciar exclusão
+O usuário 152697 não foi localizado na catraca, iniciar exclusão
+O usuário 152846 não foi localizado na catraca, iniciar exclusão
+O usuário 152699 está OK
+O usuário 152711 está OK
+O usuário 152707 está OK
+O usuário 152680 não foi localizado na catraca, iniciar exclusão
+O usuário 152845 está OK
+O usuário 152705 está OK
+O usuário 152706 está OK
+O usuário 152676 está OK
+O usuário 152730 está OK
+O usuário 152739 está OK
+O usuário 152719 não foi localizado na catraca, iniciar exclusão
+O usuário 152723 está OK
+O usuário 152850 está OK
+O usuário 152253 não foi localizado na catraca, iniciar exclusão
+O usuário 152322 está OK
+O usuário 132899 não foi localizado na catraca, iniciar exclusão
+O usuário 132900 está OK
+O usuário 150200 está OK
+O usuário 150203 está OK
+O usuário 150208 está OK
+O usuário 150217 não foi localizado na catraca, iniciar exclusão
+O usuário 150218 está OK
+O usuário 150233 está OK
+O usuário 150511 está OK
+O usuário 150517 não foi localizado na catraca, iniciar exclusão
+O usuário 150534 não foi localizado na catraca, iniciar exclusão
+O usuário 150539 não foi localizado na catraca, iniciar exclusão
+O usuário 150541 não foi localizado na catraca, iniciar exclusão
+O usuário 150697 está OK
+O usuário 137243 está OK
+O usuário 137248 não foi localizado na catraca, iniciar exclusão
+O usuário 150803 está OK
+O usuário 152342 está OK
+O usuário 152340 está OK
+O usuário 152333 está OK
+O usuário 152332 não foi localizado na catraca, iniciar exclusão
+O usuário 152329 está OK
+O usuário 152327 está OK
+O usuário 152321 não foi localizado na catraca, iniciar exclusão
+O usuário 151696 está OK
+O usuário 152306 não foi localizado na catraca, iniciar exclusão
+O usuário 152305 está OK
+O usuário 137803 está OK
+O usuário 137801 está OK
+O usuário 137792 está OK
+O usuário 151701 está OK
+O usuário 151683 está OK
+O usuário 151674 está OK
+O usuário 151657 está OK
+O usuário 151503 está OK
+O usuário 151494 está OK
+O usuário 137198 está OK
+O usuário 136857 está OK
+O usuário 135712 está OK
+O usuário 135663 não foi localizado na catraca, iniciar exclusão
+O usuário 135644 está OK
+O usuário 135635 está OK
+O usuário 152297 não foi localizado na catraca, iniciar exclusão
+O usuário 152255 está OK
+O usuário 133630 está OK
+O usuário 152301 está OK
+O usuário 151481 está OK
+O usuário 14102061 não foi localizado na catraca, iniciar exclusão
+O usuário 151208 está OK
+O usuário 151205 está OK
+O usuário 151184 está OK
+O usuário 151181 está OK
+O usuário 151177 não foi localizado na catraca, iniciar exclusão
+O usuário 139016 está OK
+O usuário 138908 está OK
+O usuário 137816 está OK
+O usuário 137814 está OK
+O usuário 137807 está OK
+O usuário 151868 está OK
+O usuário 131681 está OK
+O usuário 131632 está OK
+O usuário 131287 está OK
+O usuário 152295 está OK
+O usuário 152291 está OK
+O usuário 152289 está OK
+O usuário 152288 está OK
+O usuário 152287 está OK
+O usuário 152285 está OK
+O usuário 152284 está OK
+O usuário 152283 está OK
+O usuário 152282 está OK
+O usuário 152281 não foi localizado na catraca, iniciar exclusão
+O usuário 152279 está OK
+O usuário 130001 está OK
+O usuário 130465 não foi localizado na catraca, iniciar exclusão
+O usuário 137237 não foi localizado na catraca, iniciar exclusão
+O usuário 137241 está OK
+O usuário 137231 não foi localizado na catraca, iniciar exclusão
+O usuário 137218 não foi localizado na catraca, iniciar exclusão
+O usuário 150704 está OK
+O usuário 150705 está OK
+O usuário 150709 está OK
+O usuário 150782 está OK
+O usuário 130817 está OK
+O usuário 131111 está OK
+O usuário 133063 está OK
+O usuário 133272 está OK
+O usuário 133440 está OK
+O usuário 133443 não foi localizado na catraca, iniciar exclusão
+O usuário 133448 não foi localizado na catraca, iniciar exclusão
+O usuário 133461 não foi localizado na catraca, iniciar exclusão
+O usuário 133627 está OK
+O usuário 151852 está OK
+O usuário 151850 está OK
+O usuário 151801 está OK
+O usuário 151703 está OK
+O usuário 150195 está OK
+O usuário 142819 não foi localizado na catraca, iniciar exclusão
+O usuário 142818 não foi localizado na catraca, iniciar exclusão
+O usuário 142815 não foi localizado na catraca, iniciar exclusão
+O usuário 142809 não foi localizado na catraca, iniciar exclusão
+O usuário 142808 não foi localizado na catraca, iniciar exclusão
+O usuário 142806 não foi localizado na catraca, iniciar exclusão
+O usuário 142805 não foi localizado na catraca, iniciar exclusão
+O usuário 142804 está OK
+O usuário 142784 está OK
+O usuário 142783 está OK
+O usuário 142781 está OK
+O usuário 142774 está OK
+O usuário 150763 está OK
+O usuário 152254 está OK
+O usuário 135643 está OK
+O usuário 135626 não foi localizado na catraca, iniciar exclusão
+O usuário 135171 está OK
+O usuário 135168 está OK
+O usuário 135160 está OK
+O usuário 135147 está OK
+O usuário 135144 está OK
+O usuário 135136 não foi localizado na catraca, iniciar exclusão
+O usuário 135112 está OK
+O usuário 134628 está OK
+O usuário 134246 está OK
+O usuário 134238 está OK
+O usuário 134228 está OK
+O usuário 134220 está OK
+O usuário 133885 está OK
+O usuário 133871 está OK
+O usuário 133657 está OK
+O usuário 133664 não foi localizado na catraca, iniciar exclusão
+O usuário 133661 está OK
+O usuário 133662 está OK
+O usuário 152092 está OK
+O usuário 152080 não foi localizado na catraca, iniciar exclusão
+O usuário 151983 não foi localizado na catraca, iniciar exclusão
+O usuário 151986 está OK
+O usuário 151969 não foi localizado na catraca, iniciar exclusão
+O usuário 151968 está OK
+O usuário 151959 está OK
+O usuário 151953 está OK
+O usuário 151882 está OK
+O usuário 151874 está OK
+O usuário 151859 não foi localizado na catraca, iniciar exclusão
+O usuário 151856 está OK
+O usuário 142708 não foi localizado na catraca, iniciar exclusão
+O usuário 142705 não foi localizado na catraca, iniciar exclusão
+O usuário 142634 não foi localizado na catraca, iniciar exclusão
+O usuário 142619 está OK
+O usuário 142589 está OK
+O usuário 142585 está OK
+O usuário 141134 está OK
+O usuário 139874 está OK
+O usuário 139851 está OK
+O usuário 139810 está OK
+O usuário 152258 está OK
+O usuário 152259 está OK
+O usuário 152260 está OK
+O usuário 152251 está OK
+O usuário 152127 está OK
+O usuário 152119 está OK
+O usuário 144901 está OK
+O usuário 144902 está OK
+O usuário 133643 está OK
+O usuário 7653187 está OK
+O usuário 152277 está OK
+O usuário 137255 está OK
+O usuário 151175 está OK
+O usuário 152272 está OK
+O usuário 137246 não foi localizado na catraca, iniciar exclusão
+O usuário 137295 não foi localizado na catraca, iniciar exclusão
+O usuário 152271 está OK
+O usuário 131960 está OK
+O usuário 151186 não foi localizado na catraca, iniciar exclusão
+O usuário 151146 está OK
+O usuário 137773 não foi localizado na catraca, iniciar exclusão
+O usuário 137777 não foi localizado na catraca, iniciar exclusão
+O usuário 129711 não foi localizado na catraca, iniciar exclusão
+O usuário 129759 está OK
+O usuário 133641 está OK
+O usuário 122310 está OK
+O usuário 13617713 não foi localizado na catraca, iniciar exclusão
+O usuário 1722009 não foi localizado na catraca, iniciar exclusão
+O usuário 124124 está OK
+O usuário 152070 está OK
+O usuário 142606 está OK
+O usuário 151112 está OK
+O usuário 150202 está OK
+O usuário 142709 está OK
+O usuário 135672 está OK
+O usuário 135625 está OK
+O usuário 135152 está OK
+O usuário 133993 está OK
+O usuário 133639 não foi localizado na catraca, iniciar exclusão
+O usuário 150538 está OK
+O usuário 152101 está OK
+O usuário 152096 está OK
+O usuário 152093 está OK
+O usuário 152089 está OK
+O usuário 152088 está OK
+O usuário 152086 não foi localizado na catraca, iniciar exclusão
+O usuário 152082 está OK
+O usuário 152076 está OK
+O usuário 129981 está OK
+O usuário 135170 está OK
+O usuário 135137 está OK
+O usuário 135132 está OK
+O usuário 134674 não foi localizado na catraca, iniciar exclusão
+O usuário 150531 não foi localizado na catraca, iniciar exclusão
+O usuário 150211 está OK
+O usuário 141490 está OK
+O usuário 140781 está OK
+O usuário 138903 está OK
+O usuário 137745 está OK
+O usuário 133434 está OK
+O usuário 133423 está OK
+O usuário 133040 está OK
+O usuário 132927 está OK
+O usuário 152126 está OK
+O usuário 152117 está OK
+O usuário 152111 não foi localizado na catraca, iniciar exclusão
+O usuário 152084 está OK
+O usuário 142587 está OK
+O usuário 133267 está OK
+O usuário 152130 está OK
+O usuário 152123 não foi localizado na catraca, iniciar exclusão
+O usuário 152122 está OK
+O usuário 152121 está OK
+O usuário 152114 não foi localizado na catraca, iniciar exclusão
+O usuário 152110 não foi localizado na catraca, iniciar exclusão
+O usuário 152103 está OK
+O usuário 141729 está OK
+O usuário 133137 está OK
+O usuário 131399 está OK
+O usuário 152120 está OK
+O usuário 152075 está OK
+O usuário 152066 está OK
+O usuário 13763979 não foi localizado na catraca, iniciar exclusão
+O usuário 151196 não foi localizado na catraca, iniciar exclusão
+O usuário 151168 está OK
+O usuário 151164 não foi localizado na catraca, iniciar exclusão
+O usuário 151097 está OK
+O usuário 140604 está OK
+O usuário 7713674 está OK
+O usuário 130005 está OK
+O usuário 7653087 está OK
+O usuário 7761532 está OK
+O usuário 150925 não foi localizado na catraca, iniciar exclusão
+O usuário 150916 está OK
+O usuário 151890 está OK
+O usuário 151507 está OK
+O usuário 151504 está OK
+O usuário 151508 não foi localizado na catraca, iniciar exclusão
+O usuário 151784 está OK
+O usuário 151708 não foi localizado na catraca, iniciar exclusão
+O usuário 151468 está OK
+O usuário 151470 não foi localizado na catraca, iniciar exclusão
+O usuário 131264 está OK
+O usuário 138902 não foi localizado na catraca, iniciar exclusão
+O usuário 151782 está OK
+O usuário 151775 não foi localizado na catraca, iniciar exclusão
+O usuário 151147 está OK
+O usuário 151658 não foi localizado na catraca, iniciar exclusão
+O usuário 151105 está OK
+O usuário 150931 está OK
+O usuário 150926 está OK
+O usuário 151113 não foi localizado na catraca, iniciar exclusão
+O usuário 150955 está OK
+O usuário 134008 está OK
+O usuário 150937 está OK
+O usuário 150938 está OK
+O usuário 13331672 está OK
+O usuário 150946 está OK
+O usuário 151866 está OK
+O usuário 150917 está OK
+O usuário 141773 não foi localizado na catraca, iniciar exclusão
+O usuário 141772 está OK
+O usuário 151120 está OK
+O usuário 143724 não foi localizado na catraca, iniciar exclusão
+O usuário 150950 está OK
+O usuário 151844 não foi localizado na catraca, iniciar exclusão
+O usuário 150197 está OK
+O usuário 151671 está OK
+O usuário 151480 está OK
+O usuário 151479 está OK
+O usuário 151711 está OK
+O usuário 151894 está OK
+O usuário 151964 não foi localizado na catraca, iniciar exclusão
+O usuário 151498 está OK
+O usuário 151497 não foi localizado na catraca, iniciar exclusão
+O usuário 151858 está OK
+O usuário 151804 não foi localizado na catraca, iniciar exclusão
+O usuário 151974 não foi localizado na catraca, iniciar exclusão
+O usuário 151888 está OK
+O usuário 151799 está OK
+O usuário 151686 está OK
+O usuário 151158 está OK
+O usuário 151684 não foi localizado na catraca, iniciar exclusão
+O usuário 151174 está OK
+O usuário 151971 está OK
+O usuário 151173 está OK
+O usuário 151171 está OK
+O usuário 151170 está OK
+O usuário 151776 está OK
+O usuário 151169 está OK
+O usuário 151677 está OK
+O usuário 151853 está OK
+O usuário 151163 está OK
+O usuário 150924 está OK
+O usuário 151795 está OK
+O usuário 132909 não foi localizado na catraca, iniciar exclusão
+O usuário 139951 está OK
+O usuário 150954 está OK
+O usuário 150953 não foi localizado na catraca, iniciar exclusão
+O usuário 150949 está OK
+O usuário 151100 não foi localizado na catraca, iniciar exclusão
+O usuário 132928 está OK
+O usuário 151970 não foi localizado na catraca, iniciar exclusão
+O usuário 151952 está OK
+O usuário 151977 está OK
+O usuário 151519 não foi localizado na catraca, iniciar exclusão
+O usuário 13457484 não foi localizado na catraca, iniciar exclusão
+O usuário 133053 está OK
+O usuário 135111 está OK
+O usuário 7764522 não foi localizado na catraca, iniciar exclusão
+O usuário 129774 está OK
+O usuário 12230025 está OK
+O usuário 13605422 não foi localizado na catraca, iniciar exclusão
+O usuário 12849067 não foi localizado na catraca, iniciar exclusão
+O usuário 151155 está OK
+O usuário 7665280 está OK
+O usuário 13343784 não foi localizado na catraca, iniciar exclusão
+O usuário 13344097 não foi localizado na catraca, iniciar exclusão
+O usuário 13552478 não foi localizado na catraca, iniciar exclusão
+O usuário 7755657 está OK
+O usuário 7662227 não foi localizado na catraca, iniciar exclusão
+O usuário 7653100 não foi localizado na catraca, iniciar exclusão
+O usuário 7760454 não foi localizado na catraca, iniciar exclusão
+O usuário 7655966 não foi localizado na catraca, iniciar exclusão
+O usuário 7737076 não foi localizado na catraca, iniciar exclusão
+O usuário 7810376 não foi localizado na catraca, iniciar exclusão
+O usuário 13337453 não foi localizado na catraca, iniciar exclusão
+O usuário 9647633 não foi localizado na catraca, iniciar exclusão
+O usuário 7760483 não foi localizado na catraca, iniciar exclusão
+O usuário 13536871 está OK
+O usuário 13314947 está OK
+O usuário 12253487 está OK
+O usuário 12252278 não foi localizado na catraca, iniciar exclusão
+O usuário 13360480 não foi localizado na catraca, iniciar exclusão
+O usuário 7741876 está OK
+O usuário 13317488 está OK
+O usuário 7653957 não foi localizado na catraca, iniciar exclusão
+O usuário 7653108 não foi localizado na catraca, iniciar exclusão
+O usuário 13606024 está OK
+O usuário 13345599 não foi localizado na catraca, iniciar exclusão
+O usuário 13604995 não foi localizado na catraca, iniciar exclusão
+O usuário 7755955 está OK
+O usuário 13301757 não foi localizado na catraca, iniciar exclusão
+O usuário 13536794 não foi localizado na catraca, iniciar exclusão
+O usuário 7665339 não foi localizado na catraca, iniciar exclusão
+O usuário 13540906 está OK
+O usuário 7810386 está OK
+O usuário 7655786 não foi localizado na catraca, iniciar exclusão
+O usuário 7735976 está OK
+O usuário 13410638 não foi localizado na catraca, iniciar exclusão
+O usuário 13317724 não foi localizado na catraca, iniciar exclusão
+O usuário 7654016 não foi localizado na catraca, iniciar exclusão
+O usuário 13606884 não foi localizado na catraca, iniciar exclusão
+O usuário 13617812 está OK
+O usuário 13357434 está OK
+O usuário 13319019 está OK
+O usuário 13418511 não foi localizado na catraca, iniciar exclusão
+O usuário 20002878 não foi localizado na catraca, iniciar exclusão
+O usuário 13341237 não foi localizado na catraca, iniciar exclusão
+O usuário 13556915 não foi localizado na catraca, iniciar exclusão
+O usuário 7760543 não foi localizado na catraca, iniciar exclusão
+O usuário 13625329 está OK
+O usuário 7662358 não foi localizado na catraca, iniciar exclusão
+O usuário 7737244 não foi localizado na catraca, iniciar exclusão
+O usuário 13635708 não foi localizado na catraca, iniciar exclusão
+O usuário 13637051 não foi localizado na catraca, iniciar exclusão
+O usuário 13352267 não foi localizado na catraca, iniciar exclusão
+O usuário 13505422 não foi localizado na catraca, iniciar exclusão
+O usuário 13358065 não foi localizado na catraca, iniciar exclusão
+O usuário 10542185 não foi localizado na catraca, iniciar exclusão
+O usuário 20149906 não foi localizado na catraca, iniciar exclusão
+O usuário 13564756 não foi localizado na catraca, iniciar exclusão
+O usuário 13314302 não foi localizado na catraca, iniciar exclusão
+O usuário 13301478 está OK
+O usuário 13316221 não foi localizado na catraca, iniciar exclusão
+O usuário 13418113 está OK
+O usuário 13550992 está OK
+O usuário 76530873 não foi localizado na catraca, iniciar exclusão
+O usuário 13316171 não foi localizado na catraca, iniciar exclusão
+O usuário 13340925 está OK
+O usuário 13622047 está OK
+O usuário 9231162 não foi localizado na catraca, iniciar exclusão
+O usuário 13313927 está OK
+O usuário 13644964 não foi localizado na catraca, iniciar exclusão
+O usuário 13620873 não foi localizado na catraca, iniciar exclusão
+O usuário 13555375 está OK
+O usuário 13418499 não foi localizado na catraca, iniciar exclusão
+O usuário 7720008 não foi localizado na catraca, iniciar exclusão
+O usuário 121750 está OK
+O usuário 129712 não foi localizado na catraca, iniciar exclusão
+O usuário 132147 está OK
+O usuário 123779 está OK
+O usuário 129932 está OK
+O usuário 129686 está OK
+O usuário 131480 está OK
+O usuário 129881 está OK
+O usuário 126942 está OK
+O usuário 122846 está OK
+O usuário 131368 está OK
+O usuário 132666 está OK
+O usuário 130368 está OK
+O usuário 150943 está OK
+O usuário 999999 está OK
+O usuário 131322 está OK
+O usuário 132497 não foi localizado na catraca, iniciar exclusão
+O usuário 131976 está OK
+O usuário 142773 está OK
+O usuário 127712 está OK
+O usuário 131536 não foi localizado na catraca, iniciar exclusão
+O usuário 132207 não foi localizado na catraca, iniciar exclusão
+O usuário 134519 está OK
+O usuário 133081 não foi localizado na catraca, iniciar exclusão
+O usuário 111851 está OK
+O usuário 130508 está OK
+O usuário 132685 está OK
+O usuário 130504 não foi localizado na catraca, iniciar exclusão
+O usuário 131783 não foi localizado na catraca, iniciar exclusão
+O usuário 132936 está OK
+O usuário 121758 está OK
+O usuário 122134 está OK
+O usuário 135174 está OK
+O usuário 130866 está OK
+O usuário 131605 está OK
+O usuário 116770 está OK
+O usuário 130366 não foi localizado na catraca, iniciar exclusão
+O usuário 114767 está OK
+O usuário 117838 está OK
+O usuário 132935 não foi localizado na catraca, iniciar exclusão
+O usuário 131781 não foi localizado na catraca, iniciar exclusão
+O usuário 133874 está OK
+O usuário 122843 está OK
+O usuário 130494 está OK
+O usuário 132839 não foi localizado na catraca, iniciar exclusão
+O usuário 131779 não foi localizado na catraca, iniciar exclusão
+O usuário 137259 não foi localizado na catraca, iniciar exclusão
+O usuário 119140 não foi localizado na catraca, iniciar exclusão
+O usuário 132201 está OK
+O usuário 111850 está OK
+O usuário 129771 está OK
+O usuário 130365 não foi localizado na catraca, iniciar exclusão
+O usuário 113690 está OK
+O usuário 127800 não foi localizado na catraca, iniciar exclusão
+O usuário 134680 está OK
+O usuário 113359 está OK
+O usuário 131851 não foi localizado na catraca, iniciar exclusão
+O usuário 131603 está OK
+O usuário 112928 não foi localizado na catraca, iniciar exclusão
+O usuário 121119 está OK
+O usuário 130491 está OK
+O usuário 129770 não foi localizado na catraca, iniciar exclusão
+O usuário 130361 está OK
+O usuário 130583 não foi localizado na catraca, iniciar exclusão
+O usuário 131972 está OK
+O usuário 131530 está OK
+O usuário 131799 está OK
+O usuário 129891 está OK
+O usuário 118673 está OK
+O usuário 135554 está OK
+O usuário 131529 está OK
+O usuário 126766 não foi localizado na catraca, iniciar exclusão
+O usuário 134676 não foi localizado na catraca, iniciar exclusão
+O usuário 131598 está OK
+O usuário 129890 está OK
+O usuário 129764 não foi localizado na catraca, iniciar exclusão
+O usuário 142607 não foi localizado na catraca, iniciar exclusão
+O usuário 129763 está OK
+O usuário 130354 está OK
+O usuário 132194 está OK
+O usuário 7161177 não foi localizado na catraca, iniciar exclusão
+O usuário 12114841 está OK
+O usuário 9923393 não foi localizado na catraca, iniciar exclusão
+O usuário 9902122 está OK
+O usuário 9844629 não foi localizado na catraca, iniciar exclusão
+O usuário 9837735 não foi localizado na catraca, iniciar exclusão
+O usuário 9823904 não foi localizado na catraca, iniciar exclusão
+O usuário 9749830 está OK
+O usuário 9702392 não foi localizado na catraca, iniciar exclusão
+O usuário 9664928 está OK
+O usuário 9636916 está OK
+O usuário 9561698 está OK
+O usuário 9464015 está OK
+O usuário 9459263 não foi localizado na catraca, iniciar exclusão
+O usuário 9426671 está OK
+O usuário 9415187 não foi localizado na catraca, iniciar exclusão
+O usuário 9413403 não foi localizado na catraca, iniciar exclusão
+O usuário 9352182 não foi localizado na catraca, iniciar exclusão
+O usuário 9351934 está OK
+O usuário 9312712 não foi localizado na catraca, iniciar exclusão
+O usuário 9254334 não foi localizado na catraca, iniciar exclusão
+O usuário 9159927 não foi localizado na catraca, iniciar exclusão
+O usuário 9155703 não foi localizado na catraca, iniciar exclusão
+O usuário 9138256 está OK
+O usuário 9061224 está OK
+O usuário 9058966 está OK
+O usuário 7811272 não foi localizado na catraca, iniciar exclusão
+O usuário 7811126 não foi localizado na catraca, iniciar exclusão
+O usuário 7810953 está OK
+O usuário 7810952 está OK
+O usuário 7810396 não foi localizado na catraca, iniciar exclusão
+O usuário 7810388 está OK
+O usuário 7810377 está OK
+O usuário 7810365 não foi localizado na catraca, iniciar exclusão
+O usuário 7810357 está OK
+O usuário 7809395 está OK
+O usuário 7809394 está OK
+O usuário 7809390 está OK
+O usuário 7809330 está OK
+O usuário 7809304 não foi localizado na catraca, iniciar exclusão
+O usuário 7809238 não foi localizado na catraca, iniciar exclusão
+O usuário 7809214 não foi localizado na catraca, iniciar exclusão
+O usuário 7809176 está OK
+O usuário 7809125 não foi localizado na catraca, iniciar exclusão
+O usuário 7808239 está OK
+O usuário 7808232 está OK
+O usuário 7808225 não foi localizado na catraca, iniciar exclusão
+O usuário 7808200 não foi localizado na catraca, iniciar exclusão
+O usuário 7808195 não foi localizado na catraca, iniciar exclusão
+O usuário 7808173 está OK
+O usuário 7808141 não foi localizado na catraca, iniciar exclusão
+O usuário 7808118 não foi localizado na catraca, iniciar exclusão
+O usuário 7807668 não foi localizado na catraca, iniciar exclusão
+O usuário 7764094 está OK
+O usuário 7764093 está OK
+O usuário 7764067 não foi localizado na catraca, iniciar exclusão
+O usuário 7764063 não foi localizado na catraca, iniciar exclusão
+O usuário 7764047 está OK
+O usuário 7764027 não foi localizado na catraca, iniciar exclusão
+O usuário 7764015 está OK
+O usuário 7763835 está OK
+O usuário 7763813 não foi localizado na catraca, iniciar exclusão
+O usuário 7761943 não foi localizado na catraca, iniciar exclusão
+O usuário 7761665 não foi localizado na catraca, iniciar exclusão
+O usuário 7761622 está OK
+O usuário 7761605 está OK
+O usuário 7761518 não foi localizado na catraca, iniciar exclusão
+O usuário 7760549 não foi localizado na catraca, iniciar exclusão
+O usuário 7760519 está OK
+O usuário 7760433 não foi localizado na catraca, iniciar exclusão
+O usuário 7760249 não foi localizado na catraca, iniciar exclusão
+O usuário 7760201 não foi localizado na catraca, iniciar exclusão
+O usuário 7758624 não foi localizado na catraca, iniciar exclusão
+O usuário 7758611 está OK
+O usuário 7758581 está OK
+O usuário 7758557 não foi localizado na catraca, iniciar exclusão
+O usuário 7755687 está OK
+O usuário 7753243 não foi localizado na catraca, iniciar exclusão
+O usuário 7753176 está OK
+O usuário 7752778 está OK
+O usuário 7752686 não foi localizado na catraca, iniciar exclusão
+O usuário 7750933 não foi localizado na catraca, iniciar exclusão
+O usuário 7750932 não foi localizado na catraca, iniciar exclusão
+O usuário 7750908 não foi localizado na catraca, iniciar exclusão
+O usuário 7750903 está OK
+O usuário 7750796 não foi localizado na catraca, iniciar exclusão
+O usuário 7750746 não foi localizado na catraca, iniciar exclusão
+O usuário 7750682 não foi localizado na catraca, iniciar exclusão
+O usuário 7750590 não foi localizado na catraca, iniciar exclusão
+O usuário 7750534 não foi localizado na catraca, iniciar exclusão
+O usuário 7750081 não foi localizado na catraca, iniciar exclusão
+O usuário 7750076 não foi localizado na catraca, iniciar exclusão
+O usuário 7747364 não foi localizado na catraca, iniciar exclusão
+O usuário 7747306 está OK
+O usuário 7745986 está OK
+O usuário 7745946 não foi localizado na catraca, iniciar exclusão
+O usuário 7745891 não foi localizado na catraca, iniciar exclusão
+O usuário 7745889 está OK
+O usuário 7745886 está OK
+O usuário 7743987 está OK
+O usuário 7743979 está OK
+O usuário 7743874 não foi localizado na catraca, iniciar exclusão
+O usuário 7743856 não foi localizado na catraca, iniciar exclusão
+O usuário 7743650 não foi localizado na catraca, iniciar exclusão
+O usuário 7742911 não foi localizado na catraca, iniciar exclusão
+O usuário 7742614 está OK
+O usuário 7742585 não foi localizado na catraca, iniciar exclusão
+O usuário 7742530 não foi localizado na catraca, iniciar exclusão
+O usuário 7742002 está OK
+O usuário 7741985 não foi localizado na catraca, iniciar exclusão
+O usuário 7741984 não foi localizado na catraca, iniciar exclusão
+O usuário 7741943 não foi localizado na catraca, iniciar exclusão
+O usuário 7741602 não foi localizado na catraca, iniciar exclusão
+O usuário 7740260 está OK
+O usuário 7740249 está OK
+O usuário 7740238 está OK
+O usuário 7737170 está OK
+O usuário 7736297 não foi localizado na catraca, iniciar exclusão
+O usuário 7736007 não foi localizado na catraca, iniciar exclusão
+O usuário 7735973 está OK
+O usuário 7735960 está OK
+O usuário 7735878 não foi localizado na catraca, iniciar exclusão
+O usuário 7735754 não foi localizado na catraca, iniciar exclusão
+O usuário 7735723 não foi localizado na catraca, iniciar exclusão
+O usuário 7735431 não foi localizado na catraca, iniciar exclusão
+O usuário 7735395 está OK
+O usuário 7729666 está OK
+O usuário 7729657 está OK
+O usuário 7729038 está OK
+O usuário 7728906 está OK
+O usuário 7728470 não foi localizado na catraca, iniciar exclusão
+O usuário 7728428 não foi localizado na catraca, iniciar exclusão
+O usuário 7727239 não foi localizado na catraca, iniciar exclusão
+O usuário 7727224 está OK
+O usuário 7725404 não foi localizado na catraca, iniciar exclusão
+O usuário 7725346 não foi localizado na catraca, iniciar exclusão
+O usuário 7725343 não foi localizado na catraca, iniciar exclusão
+O usuário 7723649 não foi localizado na catraca, iniciar exclusão
+O usuário 7723622 está OK
+O usuário 7720245 não foi localizado na catraca, iniciar exclusão
+O usuário 7720237 não foi localizado na catraca, iniciar exclusão
+O usuário 7719973 não foi localizado na catraca, iniciar exclusão
+O usuário 7717069 não foi localizado na catraca, iniciar exclusão
+O usuário 7712935 não foi localizado na catraca, iniciar exclusão
+O usuário 7712855 não foi localizado na catraca, iniciar exclusão
+O usuário 7707642 não foi localizado na catraca, iniciar exclusão
+O usuário 7707569 está OK
+O usuário 7704730 não foi localizado na catraca, iniciar exclusão
+O usuário 7704690 está OK
+O usuário 7704466 não foi localizado na catraca, iniciar exclusão
+O usuário 7704433 está OK
+O usuário 7704387 está OK
+O usuário 7704372 não foi localizado na catraca, iniciar exclusão
+O usuário 7665314 está OK
+O usuário 7665254 não foi localizado na catraca, iniciar exclusão
+O usuário 7665088 está OK
+O usuário 7665053 não foi localizado na catraca, iniciar exclusão
+O usuário 7664900 está OK
+O usuário 7664868 não foi localizado na catraca, iniciar exclusão
+O usuário 7664809 não foi localizado na catraca, iniciar exclusão
+O usuário 7664797 não foi localizado na catraca, iniciar exclusão
+O usuário 7663809 está OK
+O usuário 7663590 está OK
+O usuário 7662643 está OK
+O usuário 7662244 não foi localizado na catraca, iniciar exclusão
+O usuário 7658595 está OK
+O usuário 7656938 está OK
+O usuário 7656920 não foi localizado na catraca, iniciar exclusão
+O usuário 7656895 está OK
+O usuário 7656756 está OK
+O usuário 7656702 está OK
+O usuário 7655968 está OK
+O usuário 7655944 não foi localizado na catraca, iniciar exclusão
+O usuário 7655772 está OK
+O usuário 7654021 está OK
+O usuário 7653869 está OK
+O usuário 7653164 não foi localizado na catraca, iniciar exclusão
+O usuário 7653082 não foi localizado na catraca, iniciar exclusão
+O usuário 7653036 não foi localizado na catraca, iniciar exclusão
+O usuário 7653035 não foi localizado na catraca, iniciar exclusão
+O usuário 7653005 não foi localizado na catraca, iniciar exclusão
+O usuário 7227597 não foi localizado na catraca, iniciar exclusão
+O usuário 7226566 não foi localizado na catraca, iniciar exclusão
+O usuário 7204911 não foi localizado na catraca, iniciar exclusão
+O usuário 20262728 não foi localizado na catraca, iniciar exclusão
+O usuário 20262713 está OK
+O usuário 20262662 está OK
+O usuário 20258416 não foi localizado na catraca, iniciar exclusão
+O usuário 20258372 não foi localizado na catraca, iniciar exclusão
+O usuário 20258256 não foi localizado na catraca, iniciar exclusão
+O usuário 20258249 não foi localizado na catraca, iniciar exclusão
+O usuário 20258234 não foi localizado na catraca, iniciar exclusão
+O usuário 20258190 está OK
+O usuário 20233928 não foi localizado na catraca, iniciar exclusão
+O usuário 20233875 está OK
+O usuário 20233818 não foi localizado na catraca, iniciar exclusão
+O usuário 20215993 não foi localizado na catraca, iniciar exclusão
+O usuário 20215514 não foi localizado na catraca, iniciar exclusão
+O usuário 20213503 está OK
+O usuário 20213104 não foi localizado na catraca, iniciar exclusão
+O usuário 20209097 está OK
+O usuário 20209023 não foi localizado na catraca, iniciar exclusão
+O usuário 20208977 não foi localizado na catraca, iniciar exclusão
+O usuário 20208913 não foi localizado na catraca, iniciar exclusão
+O usuário 20206980 está OK
+O usuário 20206923 não foi localizado na catraca, iniciar exclusão
+O usuário 20206870 está OK
+O usuário 20202781 não foi localizado na catraca, iniciar exclusão
+O usuário 20202778 não foi localizado na catraca, iniciar exclusão
+O usuário 20202772 está OK
+O usuário 20202726 está OK
+O usuário 20202725 está OK
+O usuário 20202683 não foi localizado na catraca, iniciar exclusão
+O usuário 20202671 não foi localizado na catraca, iniciar exclusão
+O usuário 20202668 não foi localizado na catraca, iniciar exclusão
+O usuário 20201283 não foi localizado na catraca, iniciar exclusão
+O usuário 20201236 está OK
+O usuário 20201234 não foi localizado na catraca, iniciar exclusão
+O usuário 20165533 está OK
+O usuário 20165532 não foi localizado na catraca, iniciar exclusão
+O usuário 20165531 não foi localizado na catraca, iniciar exclusão
+O usuário 20165422 está OK
+O usuário 20165311 não foi localizado na catraca, iniciar exclusão
+O usuário 20165308 não foi localizado na catraca, iniciar exclusão
+O usuário 20165256 não foi localizado na catraca, iniciar exclusão
+O usuário 20164818 não foi localizado na catraca, iniciar exclusão
+O usuário 20164448 está OK
+O usuário 20164445 está OK
+O usuário 20164400 não foi localizado na catraca, iniciar exclusão
+O usuário 20164397 não foi localizado na catraca, iniciar exclusão
+O usuário 20161360 está OK
+O usuário 20161359 não foi localizado na catraca, iniciar exclusão
+O usuário 20161319 não foi localizado na catraca, iniciar exclusão
+O usuário 20161298 não foi localizado na catraca, iniciar exclusão
+O usuário 20161273 não foi localizado na catraca, iniciar exclusão
+O usuário 20155120 não foi localizado na catraca, iniciar exclusão
+O usuário 20149956 não foi localizado na catraca, iniciar exclusão
+O usuário 20149955 não foi localizado na catraca, iniciar exclusão
+O usuário 20149905 está OK
+O usuário 20149845 está OK
+O usuário 20147005 está OK
+O usuário 20146139 está OK
+O usuário 20145993 não foi localizado na catraca, iniciar exclusão
+O usuário 20111920 não foi localizado na catraca, iniciar exclusão
+O usuário 13649012 está OK
+O usuário 13644731 não foi localizado na catraca, iniciar exclusão
+O usuário 13644483 não foi localizado na catraca, iniciar exclusão
+O usuário 13637310 não foi localizado na catraca, iniciar exclusão
+O usuário 13632237 não foi localizado na catraca, iniciar exclusão
+O usuário 13630457 está OK
+O usuário 13626683 não foi localizado na catraca, iniciar exclusão
+O usuário 13624788 não foi localizado na catraca, iniciar exclusão
+O usuário 13620121 não foi localizado na catraca, iniciar exclusão
+O usuário 13618378 não foi localizado na catraca, iniciar exclusão
+O usuário 13609214 não foi localizado na catraca, iniciar exclusão
+O usuário 13603300 está OK
+O usuário 13551541 não foi localizado na catraca, iniciar exclusão
+O usuário 13541744 não foi localizado na catraca, iniciar exclusão
+O usuário 13541475 não foi localizado na catraca, iniciar exclusão
+O usuário 13540603 está OK
+O usuário 13537614 não foi localizado na catraca, iniciar exclusão
+O usuário 13415171 está OK
+O usuário 13413839 não foi localizado na catraca, iniciar exclusão
+O usuário 13411797 não foi localizado na catraca, iniciar exclusão
+O usuário 13410310 não foi localizado na catraca, iniciar exclusão
+O usuário 13409080 está OK
+O usuário 13408160 está OK
+O usuário 13404424 está OK
+O usuário 13363173 está OK
+O usuário 13361554 está OK
+O usuário 13359304 não foi localizado na catraca, iniciar exclusão
+O usuário 13351988 não foi localizado na catraca, iniciar exclusão
+O usuário 13351072 está OK
+O usuário 13350545 não foi localizado na catraca, iniciar exclusão
+O usuário 13344094 está OK
+O usuário 13341675 está OK
+O usuário 13340327 está OK
+O usuário 13339734 não foi localizado na catraca, iniciar exclusão
+O usuário 13337190 está OK
+O usuário 13327005 não foi localizado na catraca, iniciar exclusão
+O usuário 13326454 não foi localizado na catraca, iniciar exclusão
+O usuário 13323470 não foi localizado na catraca, iniciar exclusão
+O usuário 13323064 não foi localizado na catraca, iniciar exclusão
+O usuário 13318120 não foi localizado na catraca, iniciar exclusão
+O usuário 13317121 não foi localizado na catraca, iniciar exclusão
+O usuário 13315842 não foi localizado na catraca, iniciar exclusão
+O usuário 13315530 está OK
+O usuário 13315407 está OK
+O usuário 13310326 não foi localizado na catraca, iniciar exclusão
+O usuário 13308042 não foi localizado na catraca, iniciar exclusão
+O usuário 13304399 está OK
+O usuário 13301513 está OK
+O usuário 13301221 está OK
+O usuário 13301004 está OK
+O usuário 12859825 não foi localizado na catraca, iniciar exclusão
+O usuário 12859000 está OK
+O usuário 12857743 está OK
+O usuário 12856804 está OK
+O usuário 12853121 não foi localizado na catraca, iniciar exclusão
+O usuário 12851437 não foi localizado na catraca, iniciar exclusão
+O usuário 12849896 está OK
+O usuário 12849028 não foi localizado na catraca, iniciar exclusão
+O usuário 12844343 está OK
+O usuário 12842177 está OK
+O usuário 12841393 está OK
+O usuário 12832489 está OK
+O usuário 12826465 está OK
+O usuário 12823854 não foi localizado na catraca, iniciar exclusão
+O usuário 12819736 não foi localizado na catraca, iniciar exclusão
+O usuário 12813290 não foi localizado na catraca, iniciar exclusão
+O usuário 12806784 não foi localizado na catraca, iniciar exclusão
+O usuário 12806162 não foi localizado na catraca, iniciar exclusão
+O usuário 12801931 não foi localizado na catraca, iniciar exclusão
+O usuário 12758667 não foi localizado na catraca, iniciar exclusão
+O usuário 12752232 está OK
+O usuário 12745093 está OK
+O usuário 12724782 está OK
+O usuário 12710931 não foi localizado na catraca, iniciar exclusão
+O usuário 12710928 não foi localizado na catraca, iniciar exclusão
+O usuário 12707722 está OK
+O usuário 12707719 não foi localizado na catraca, iniciar exclusão
+O usuário 12704474 está OK
+O usuário 12704038 não foi localizado na catraca, iniciar exclusão
+O usuário 12701319 está OK
+O usuário 12702694 está OK
+O usuário 12701317 não foi localizado na catraca, iniciar exclusão
+O usuário 12701314 não foi localizado na catraca, iniciar exclusão
+O usuário 12663495 não foi localizado na catraca, iniciar exclusão
+O usuário 12658263 não foi localizado na catraca, iniciar exclusão
+O usuário 12658240 não foi localizado na catraca, iniciar exclusão
+O usuário 12656365 não foi localizado na catraca, iniciar exclusão
+O usuário 12656358 está OK
+O usuário 12644000 não foi localizado na catraca, iniciar exclusão
+O usuário 12643728 está OK
+O usuário 12643723 está OK
+O usuário 12641243 não foi localizado na catraca, iniciar exclusão
+O usuário 12633265 está OK
+O usuário 12633188 não foi localizado na catraca, iniciar exclusão
+O usuário 12633185 não foi localizado na catraca, iniciar exclusão
+O usuário 12630117 não foi localizado na catraca, iniciar exclusão
+O usuário 12630105 está OK
+O usuário 12630102 não foi localizado na catraca, iniciar exclusão
+O usuário 12630095 está OK
+O usuário 12630092 não foi localizado na catraca, iniciar exclusão
+O usuário 12630085 não foi localizado na catraca, iniciar exclusão
+O usuário 12630082 está OK
+O usuário 12627524 não foi localizado na catraca, iniciar exclusão
+O usuário 12616362 não foi localizado na catraca, iniciar exclusão
+O usuário 12614234 não foi localizado na catraca, iniciar exclusão
+O usuário 12403511 está OK
+O usuário 12403508 está OK
+O usuário 12315827 não foi localizado na catraca, iniciar exclusão
+O usuário 12315727 está OK
+O usuário 12315620 está OK
+O usuário 12315508 está OK
+O usuário 12314161 está OK
+O usuário 12311719 não foi localizado na catraca, iniciar exclusão
+O usuário 12310958 não foi localizado na catraca, iniciar exclusão
+O usuário 12309805 não foi localizado na catraca, iniciar exclusão
+O usuário 12309791 está OK
+O usuário 12309685 não foi localizado na catraca, iniciar exclusão
+O usuário 12309594 está OK
+O usuário 12309382 não foi localizado na catraca, iniciar exclusão
+O usuário 12305209 está OK
+O usuário 12303559 não foi localizado na catraca, iniciar exclusão
+O usuário 12302561 não foi localizado na catraca, iniciar exclusão
+O usuário 12301034 não foi localizado na catraca, iniciar exclusão
+O usuário 12300828 está OK
+O usuário 12300815 está OK
+O usuário 12300236 não foi localizado na catraca, iniciar exclusão
+O usuário 12262125 não foi localizado na catraca, iniciar exclusão
+O usuário 12259393 está OK
+O usuário 12258941 está OK
+O usuário 12258362 está OK
+O usuário 12257578 não foi localizado na catraca, iniciar exclusão
+O usuário 12257486 não foi localizado na catraca, iniciar exclusão
+O usuário 12256969 não foi localizado na catraca, iniciar exclusão
+O usuário 12255532 não foi localizado na catraca, iniciar exclusão
+O usuário 12255109 está OK
+O usuário 12254962 não foi localizado na catraca, iniciar exclusão
+O usuário 12254961 está OK
+O usuário 12247133 está OK
+O usuário 12246843 está OK
+O usuário 12244568 não foi localizado na catraca, iniciar exclusão
+O usuário 12242423 está OK
+O usuário 12241262 está OK
+O usuário 12241109 está OK
+O usuário 12239801 está OK
+O usuário 12239507 não foi localizado na catraca, iniciar exclusão
+O usuário 12238928 não foi localizado na catraca, iniciar exclusão
+O usuário 12237118 não foi localizado na catraca, iniciar exclusão
+O usuário 12236964 não foi localizado na catraca, iniciar exclusão
+O usuário 12236857 não foi localizado na catraca, iniciar exclusão
+O usuário 12234943 não foi localizado na catraca, iniciar exclusão
+O usuário 12234319 não foi localizado na catraca, iniciar exclusão
+O usuário 12233120 não foi localizado na catraca, iniciar exclusão
+O usuário 12231868 não foi localizado na catraca, iniciar exclusão
+O usuário 12231352 está OK
+O usuário 12229029 não foi localizado na catraca, iniciar exclusão
+O usuário 12225602 não foi localizado na catraca, iniciar exclusão
+O usuário 12225189 não foi localizado na catraca, iniciar exclusão
+O usuário 12224815 não foi localizado na catraca, iniciar exclusão
+O usuário 12222510 não foi localizado na catraca, iniciar exclusão
+O usuário 12221039 está OK
+O usuário 12219641 não foi localizado na catraca, iniciar exclusão
+O usuário 12218771 não foi localizado na catraca, iniciar exclusão
+O usuário 12218489 não foi localizado na catraca, iniciar exclusão
+O usuário 12217749 está OK
+O usuário 12216801 está OK
+O usuário 12215828 está OK
+O usuário 12214304 não foi localizado na catraca, iniciar exclusão
+O usuário 12213420 não foi localizado na catraca, iniciar exclusão
+O usuário 12211594 não foi localizado na catraca, iniciar exclusão
+O usuário 12208714 está OK
+O usuário 12207739 está OK
+O usuário 12206797 está OK
+O usuário 12206473 não foi localizado na catraca, iniciar exclusão
+O usuário 12205963 está OK
+O usuário 12204971 está OK
+O usuário 12204707 está OK
+O usuário 12203999 está OK
+O usuário 12203090 está OK
+O usuário 12203073 não foi localizado na catraca, iniciar exclusão
+O usuário 12202302 está OK
+O usuário 12200339 não foi localizado na catraca, iniciar exclusão
+O usuário 12164918 não foi localizado na catraca, iniciar exclusão
+O usuário 12164562 está OK
+O usuário 12163904 não foi localizado na catraca, iniciar exclusão
+O usuário 12162353 está OK
+O usuário 12162019 não foi localizado na catraca, iniciar exclusão
+O usuário 12161942 não foi localizado na catraca, iniciar exclusão
+O usuário 12161917 não foi localizado na catraca, iniciar exclusão
+O usuário 12161630 não foi localizado na catraca, iniciar exclusão
+O usuário 12159800 não foi localizado na catraca, iniciar exclusão
+O usuário 12159605 não foi localizado na catraca, iniciar exclusão
+O usuário 12157099 não foi localizado na catraca, iniciar exclusão
+O usuário 12155259 não foi localizado na catraca, iniciar exclusão
+O usuário 12154844 não foi localizado na catraca, iniciar exclusão
+O usuário 12147374 está OK
+O usuário 12142087 não foi localizado na catraca, iniciar exclusão
+O usuário 12142080 está OK
+O usuário 12129964 está OK
+O usuário 12129463 está OK
+O usuário 12114843 não foi localizado na catraca, iniciar exclusão
+O usuário 12114838 está OK
+O usuário 12114831 está OK
+O usuário 12114708 não foi localizado na catraca, iniciar exclusão
+O usuário 12114701 está OK
+O usuário 12114698 não foi localizado na catraca, iniciar exclusão
+O usuário 12108646 está OK
+O usuário 12103796 não foi localizado na catraca, iniciar exclusão
+O usuário 12103793 não foi localizado na catraca, iniciar exclusão
+O usuário 12102351 está OK
+O usuário 12102349 está OK
+O usuário 12101607 não foi localizado na catraca, iniciar exclusão
+O usuário 12101597 não foi localizado na catraca, iniciar exclusão
+O usuário 12100431 está OK
+O usuário 12100393 não foi localizado na catraca, iniciar exclusão
+O usuário 12063258 está OK
+O usuário 12063255 está OK
+O usuário 12063223 está OK
+O usuário 12063175 não foi localizado na catraca, iniciar exclusão
+O usuário 12059400 está OK
+O usuário 12059397 está OK
+O usuário 12059395 está OK
+O usuário 12059392 não foi localizado na catraca, iniciar exclusão
+O usuário 12059315 não foi localizado na catraca, iniciar exclusão
+O usuário 12053950 está OK
+O usuário 12037671 está OK
+O usuário 12036107 não foi localizado na catraca, iniciar exclusão
+O usuário 12028268 não foi localizado na catraca, iniciar exclusão
+O usuário 11441034 não foi localizado na catraca, iniciar exclusão
+O usuário 11438278 está OK
+O usuário 11431692 não foi localizado na catraca, iniciar exclusão
+O usuário 11430350 está OK
+O usuário 11428803 está OK
+O usuário 11406167 está OK
+O usuário 11364542 não foi localizado na catraca, iniciar exclusão
+O usuário 11350976 não foi localizado na catraca, iniciar exclusão
+O usuário 11346413 está OK
+O usuário 11340979 está OK
+O usuário 11335845 está OK
+O usuário 11330897 está OK
+O usuário 11326382 está OK
+O usuário 10614660 não foi localizado na catraca, iniciar exclusão
+O usuário 10610761 está OK
+O usuário 10606389 não foi localizado na catraca, iniciar exclusão
+O usuário 10604665 está OK
+O usuário 10603630 não foi localizado na catraca, iniciar exclusão
+O usuário 10565262 não foi localizado na catraca, iniciar exclusão
+O usuário 10552769 está OK
+O usuário 10546818 não foi localizado na catraca, iniciar exclusão
+O usuário 10545157 está OK
+O usuário 10543287 está OK
+O usuário 10542545 está OK
+O usuário 10540136 não foi localizado na catraca, iniciar exclusão
+O usuário 10535779 está OK
+O usuário 10535018 está OK
+O usuário 10530770 não foi localizado na catraca, iniciar exclusão
+O usuário 10529653 não foi localizado na catraca, iniciar exclusão
+O usuário 10529635 está OK
+O usuário 10524622 está OK
+O usuário 10514707 não foi localizado na catraca, iniciar exclusão
+O usuário 10507890 está OK
+O usuário 10506600 não foi localizado na catraca, iniciar exclusão
+O usuário 10503704 está OK
+O usuário 10465515 está OK
+O usuário 10464731 está OK
+O usuário 10463952 está OK
+O usuário 10461243 não foi localizado na catraca, iniciar exclusão
+O usuário 10457422 está OK
+O usuário 10443454 não foi localizado na catraca, iniciar exclusão
+O usuário 10426142 não foi localizado na catraca, iniciar exclusão
+O usuário 10425871 está OK
+O usuário 10425788 não foi localizado na catraca, iniciar exclusão
+O usuário 10414001 está OK
+O usuário 10410556 está OK
+O usuário 10364690 está OK
+O usuário 10354235 está OK
+O usuário 10344300 está OK
+O usuário 10343959 não foi localizado na catraca, iniciar exclusão
+O usuário 10318931 está OK
+O usuário 10304764 está OK
+O usuário 10264178 não foi localizado na catraca, iniciar exclusão
+O usuário 10235712 não foi localizado na catraca, iniciar exclusão
+O usuário 10232903 não foi localizado na catraca, iniciar exclusão
+O usuário 10140425 não foi localizado na catraca, iniciar exclusão
+O usuário 10062073 não foi localizado na catraca, iniciar exclusão
+O usuário 10025894 está OK
+O usuário 13316614 não foi localizado na catraca, iniciar exclusão
+O usuário 12114696 está OK
+O usuário 12230174 não foi localizado na catraca, iniciar exclusão
+O usuário 12238696 não foi localizado na catraca, iniciar exclusão
+O usuário 9907627 não foi localizado na catraca, iniciar exclusão
+O usuário 127346 está OK
+O usuário 131361 está OK
+O usuário 118671 está OK
+O usuário 129760 está OK
+O usuário 129888 está OK
+O usuário 131709 está OK
+O usuário 130482 está OK
+O usuário 123036 está OK
+O usuário 129995 está OK
+O usuário 129994 está OK
+O usuário 114378 está OK
+O usuário 131526 está OK
+O usuário 130346 está OK
+O usuário 132506 está OK
+O usuário 131595 está OK
+O usuário 131772 está OK
+O usuário 136878 está OK
+O usuário 123327 está OK
+O usuário 130575 não foi localizado na catraca, iniciar exclusão
+O usuário 131849 não foi localizado na catraca, iniciar exclusão
+O usuário 133872 está OK
+O usuário 136875 está OK
+O usuário 132679 não foi localizado na catraca, iniciar exclusão
+O usuário 150549 está OK
+O usuário 130476 está OK
+O usuário 111848 não foi localizado na catraca, iniciar exclusão
+O usuário 112279 está OK
+O usuário 129149 não foi localizado na catraca, iniciar exclusão
+O usuário 130342 está OK
+O usuário 129865 está OK
+O usuário 130341 está OK
+O usuário 131705 não foi localizado na catraca, iniciar exclusão
+O usuário 134663 está OK
+O usuário 129756 está OK
+O usuário 129978 está OK
+O usuário 129977 está OK
+O usuário 113345 está OK
+O usuário 130469 está OK
+O usuário 130053 está OK
+O usuário 129864 não foi localizado na catraca, iniciar exclusão
+O usuário 129974 está OK
+O usuário 135664 está OK
+O usuário 130467 está OK
+O usuário 130466 está OK
+O usuário 115229 está OK
+O usuário 135662 está OK
+O usuário 139839 está OK
+O usuário 132829 está OK
+O usuário 132828 não foi localizado na catraca, iniciar exclusão
+O usuário 130334 não foi localizado na catraca, iniciar exclusão
+O usuário 16968 está OK
+O usuário 122476 está OK
+O usuário 139904 está OK
+O usuário 112381 está OK
+O usuário 132925 está OK
+O usuário 122857 está OK
+O usuário 131592 está OK
+O usuário 113722 não foi localizado na catraca, iniciar exclusão
+O usuário 150229 não foi localizado na catraca, iniciar exclusão
+O usuário 126039 está OK
+O usuário 128106 não foi localizado na catraca, iniciar exclusão
+O usuário 131703 está OK
+O usuário 129751 não foi localizado na catraca, iniciar exclusão
+O usuário 129972 não foi localizado na catraca, iniciar exclusão
+O usuário 130330 está OK
+O usuário 129887 está OK
+O usuário 130619 está OK
+O usuário 129971 está OK
+O usuário 123181 está OK
+O usuário 122213 está OK
+O usuário 130327 está OK
+O usuário 150543 não foi localizado na catraca, iniciar exclusão
+O usuário 130461 está OK
+O usuário 132180 está OK
+O usuário 132826 está OK
+O usuário 130326 não foi localizado na catraca, iniciar exclusão
+O usuário 128636 não foi localizado na catraca, iniciar exclusão
+O usuário 130325 está OK
+O usuário 132825 está OK
+O usuário 129743 não foi localizado na catraca, iniciar exclusão
+O usuário 150542 está OK
+O usuário 137245 está OK
+O usuário 130323 não foi localizado na catraca, iniciar exclusão
+O usuário 132675 não foi localizado na catraca, iniciar exclusão
+O usuário 131591 não foi localizado na catraca, iniciar exclusão
+O usuário 129741 não foi localizado na catraca, iniciar exclusão
+O usuário 130321 não foi localizado na catraca, iniciar exclusão
+O usuário 132917 está OK
+O usuário 132494 está OK
+O usuário 129738 não foi localizado na catraca, iniciar exclusão
+O usuário 135652 está OK
+O usuário 116908 está OK
+O usuário 129019 está OK
+O usuário 130038 está OK
+O usuário 134647 está OK
+O usuário 133645 está OK
+O usuário 131350 não foi localizado na catraca, iniciar exclusão
+O usuário 119696 está OK
+O usuário 130314 não foi localizado na catraca, iniciar exclusão
+O usuário 132532 está OK
+O usuário 129960 está OK
+O usuário 123237 está OK
+O usuário 131541 está OK
+O usuário 130312 está OK
+O usuário 115688 está OK
+O usuário 129884 está OK
+O usuário 132171 está OK
+O usuário 127792 está OK
+O usuário 121098 está OK
+O usuário 132170 está OK
+O usuário 129882 está OK
+O usuário 130561 está OK
+O usuário 129732 está OK
+O usuário 130308 está OK
+O usuário 115714 está OK
+O usuário 133884 está OK
+O usuário 131502 está OK
+O usuário 131500 está OK
+O usuário 139732 está OK
+O usuário 115219 não foi localizado na catraca, iniciar exclusão
+O usuário 114467 está OK
+O usuário 122990 está OK
+O usuário 132668 não foi localizado na catraca, iniciar exclusão
+O usuário 133439 está OK
+O usuário 129880 está OK
+O usuário 131344 está OK
+O usuário 140423 está OK
+O usuário 117828 está OK
+O usuário 130440 não foi localizado na catraca, iniciar exclusão
+O usuário 122823 está OK
+O usuário 112776 está OK
+O usuário 135640 está OK
+O usuário 131626 está OK
+O usuário 129949 está OK
+O usuário 114466 está OK
+O usuário 132164 está OK
+O usuário 133273 está OK
+O usuário 129948 está OK
+O usuário 135637 não foi localizado na catraca, iniciar exclusão
+O usuário 129947 está OK
+O usuário 130301 está OK
+O usuário 129879 não foi localizado na catraca, iniciar exclusão
+O usuário 113738 está OK
+O usuário 131343 está OK
+O usuário 129877 está OK
+O usuário 130299 está OK
+O usuário 130435 não foi localizado na catraca, iniciar exclusão
+O usuário 129946 está OK
+O usuário 134738 está OK
+O usuário 131624 está OK
+O usuário 129944 não foi localizado na catraca, iniciar exclusão
+O usuário 130298 está OK
+O usuário 116339 está OK
+O usuário 130297 está OK
+O usuário 133870 está OK
+O usuário 123160 está OK
+O usuário 135139 não foi localizado na catraca, iniciar exclusão
+O usuário 135633 está OK
+O usuário 131587 está OK
+O usuário 130291 está OK
+O usuário 133052 está OK
+O usuário 130845 está OK
+O usuário 120726 não foi localizado na catraca, iniciar exclusão
+O usuário 119282 está OK
+O usuário 131493 está OK
+O usuário 131693 está OK
+O usuário 131946 está OK
+O usuário 131945 está OK
+O usuário 130285 não foi localizado na catraca, iniciar exclusão
+O usuário 129876 está OK
+O usuário 131018 está OK
+O usuário 132481 está OK
+O usuário 130432 está OK
+O usuário 131492 está OK
+O usuário 129725 está OK
+O usuário 129875 está OK
+O usuário 129936 está OK
+O usuário 130431 está OK
+O usuário 130430 está OK
+O usuário 136851 está OK
+O usuário 129935 está OK
+O usuário 129723 está OK
+O usuário 127493 está OK
+O usuário 127681 está OK
+O usuário 113709 está OK
+O usuário 131491 não foi localizado na catraca, iniciar exclusão
+O usuário 133433 está OK
+O usuário 115502 está OK
+O usuário 129930 está OK
+O usuário 112534 está OK
+O usuário 129929 está OK
+O usuário 129721 está OK
+O usuário 139820 está OK
+O usuário 129008 está OK
+O usuário 129874 está OK
+O usuário 132904 está OK
+O usuário 133869 está OK
+O usuário 138990 está OK
+O usuário 132158 está OK
+O usuário 131943 está OK
+O usuário 130648 não foi localizado na catraca, iniciar exclusão
+O usuário 129926 está OK
+O usuário 138989 está OK
+O usuário 150527 está OK
+O usuário 150525 está OK
+O usuário 129922 está OK
+O usuário 131337 não foi localizado na catraca, iniciar exclusão
+O usuário 129921 não foi localizado na catraca, iniciar exclusão
+O usuário 131754 está OK
+O usuário 131940 está OK
+O usuário 129919 está OK
+O usuário 114135 está OK
+O usuário 135477 está OK
+O usuário 121734 está OK
+O usuário 122815 está OK
+O usuário 113321 está OK
+O usuário 130037 está OK
+O usuário 121086 está OK
+O usuário 112188 está OK
+O usuário 115212 está OK
+O usuário 129709 está OK
+O usuário 123624 está OK
+O usuário 113702 não foi localizado na catraca, iniciar exclusão
+O usuário 132806 não foi localizado na catraca, iniciar exclusão
+O usuário 126230 está OK
+O usuário 135623 não foi localizado na catraca, iniciar exclusão
+O usuário 113525 está OK
+O usuário 129707 está OK
+O usuário 132478 está OK
+O usuário 130416 está OK
+O usuário 115325 está OK
+O usuário 131329 não foi localizado na catraca, iniciar exclusão
+O usuário 110276 não foi localizado na catraca, iniciar exclusão
+O usuário 131938 está OK
+O usuário 129872 está OK
+O usuário 130853 está OK
+O usuário 131580 está OK
+O usuário 130546 está OK
+O usuário 117921 está OK
+O usuário 128416 está OK
+O usuário 129870 está OK
+O usuário 135121 está OK
+O usuário 129869 está OK
+O usuário 142584 está OK
+O usuário 129704 está OK
+O usuário 132658 está OK
+O usuário 129914 está OK
+O usuário 115681 está OK
+O usuário 129912 está OK
+O usuário 150183 está OK
+O usuário 131830 está OK
+O usuário 132657 está OK
+O usuário 131786 não foi localizado na catraca, iniciar exclusão
+O usuário 142583 não foi localizado na catraca, iniciar exclusão
+O usuário 124380 não foi localizado na catraca, iniciar exclusão
+O usuário 131575 está OK
+O usuário 132801 está OK
+O usuário 130532 está OK
+O usuário 112178 está OK
+O usuário 129698 não foi localizado na catraca, iniciar exclusão
+O usuário 132473 está OK
+O usuário 118059 está OK
+O usuário 129693 está OK
+O usuário 150521 está OK
+O usuário 132472 está OK
+O usuário 126686 está OK
+O usuário 132799 está OK
+O usuário 131475 não foi localizado na catraca, iniciar exclusão
+O usuário 130400 está OK
+O usuário 130036 está OK
+O usuário 116238 está OK
+O usuário 130035 está OK
+O usuário 128412 está OK
+O usuário 114572 está OK
+O usuário 130528 está OK
+O usuário 131613 está OK
+O usuário 131472 está OK
+O usuário 150520 está OK
+O usuário 133039 está OK
+O usuário 119807 está OK
+O usuário 132798 está OK
+O usuário 129867 está OK
+O usuário 130399 está OK
+O usuário 113720 está OK
+O usuário 123071 está OK
+O usuário 129901 está OK
+O usuário 132463 está OK
+O usuário 135613 não foi localizado na catraca, iniciar exclusão
+O usuário 132145 não foi localizado na catraca, iniciar exclusão
+O usuário 129683 está OK
+O usuário 134560 está OK
+O usuário 130396 não foi localizado na catraca, iniciar exclusão
+O usuário 130395 não foi localizado na catraca, iniciar exclusão
+O usuário 131465 está OK
+O usuário 150612 está OK
+O usuário 133597 está OK
+O usuário 131610 está OK
+O usuário 116426 está OK
+O usuário 132141 não foi localizado na catraca, iniciar exclusão
+O usuário 135110 está OK
+O usuário 129678 está OK
+O usuário 130251 está OK
+O usuário 113679 está OK
+O usuário 130819 está OK
+O usuário 118052 não foi localizado na catraca, iniciar exclusão
+O usuário 129699 está OK
+O usuário 123582 está OK
+O usuário com ID 1792 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1790 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1789 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1784 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1783 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1781 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1773 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1771 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1770 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1769 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1768 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1765 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1764 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1762 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1761 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1760 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1757 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1753 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1749 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1747 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1743 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1736 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1732 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1731 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1730 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1729 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1716 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1715 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1711 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1710 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1703 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1697 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1696 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1693 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1686 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1683 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1676 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1671 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1670 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1667 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1666 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1659 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1657 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1655 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1654 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1652 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1651 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1645 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1644 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1640 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1638 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1636 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1633 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1629 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1623 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1621 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1618 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1617 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1606 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1603 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1602 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1599 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1598 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1592 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1587 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1576 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1570 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1568 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1562 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1561 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1559 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1558 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1557 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1555 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1550 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1544 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1541 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1540 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1539 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1535 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1527 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1525 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1524 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1522 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1518 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1513 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1511 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1508 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1505 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1504 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1502 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1500 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1499 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1498 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1497 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1494 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1489 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1486 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1485 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1484 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1482 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1478 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1476 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1472 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1469 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1462 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1454 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1451 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1448 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1446 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1442 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1440 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1428 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1427 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1425 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1419 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1413 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1412 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1408 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1406 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1404 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1402 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1398 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1397 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1396 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1393 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1388 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1386 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1385 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1384 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1382 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1381 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1376 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1371 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1370 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1366 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1365 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1364 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1360 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1353 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1350 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1348 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1343 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1339 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1338 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1337 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1336 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1333 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1328 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1325 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1323 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1309 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1306 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1301 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1296 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1277 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1274 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1273 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1271 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1270 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1260 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1259 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1258 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1251 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1250 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1249 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1248 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1247 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1246 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1245 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1236 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1230 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1220 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1216 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1215 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1213 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1207 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1205 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1204 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1203 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1189 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1188 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1181 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1180 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1177 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1175 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1174 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1173 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1171 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1169 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1168 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1157 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1150 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1143 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1142 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1130 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1125 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1122 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1121 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1113 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1112 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1110 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1103 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1098 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1096 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1094 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1092 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1090 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1088 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1084 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1075 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1072 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1070 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1063 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1061 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1059 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1058 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1053 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1047 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1040 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1037 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1035 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1033 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1030 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1029 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1026 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1025 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1023 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1022 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1019 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1018 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1017 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1015 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1014 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1013 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1012 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1011 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1010 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1009 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1008 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1007 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1003 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 1002 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 999 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 998 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 996 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 995 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 993 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 992 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 991 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 988 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 986 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 985 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 984 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 983 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 979 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 978 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 977 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 976 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 975 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 973 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 972 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 971 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 970 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 969 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 968 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 967 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 966 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 965 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 964 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 963 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 961 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 958 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 957 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 954 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 952 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 951 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 949 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 948 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 946 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 935 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 931 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 927 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 926 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 924 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 920 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 919 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 911 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 908 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 907 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 903 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 902 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 901 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 900 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 896 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 894 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 892 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 891 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 889 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 886 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 884 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 876 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 875 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 872 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 871 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 867 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 865 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 863 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 862 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 861 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 859 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 854 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 852 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 851 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 850 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 848 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 847 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 846 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 845 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 841 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 840 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 837 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 834 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 828 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 827 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 826 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 824 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 821 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 820 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 819 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 817 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 816 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 815 foi removido! Cracha Alterado ou excluido na catraca.
+O usuário com ID 812 foi removido! Cracha Alterado ou excluido na catraca.
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol
+Inicializando Remoção de Usuários
+Lendo usuários do arquivo DB
+Lendo usuários da DB da Catraca
+Gerando Token da API Incontrol

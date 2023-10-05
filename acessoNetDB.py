@@ -3,8 +3,8 @@ import pyodbc
 import wiegand
 
 conexaoDB = (
-    "Driver={SQL Server Native Client 11.0};"
-    "Server=PR721SR0002;"
+    "Driver={SQL Server};"
+    "Server=172.32.1.22\SQLEXPRESS1;"
     "Database=SecullumAcessoNet2;"
     "UID=integracao;"
     "PWD=Pelotassss-1"
@@ -19,9 +19,12 @@ def init(): #inicia a conexao
     global cursor
     try:
         conexao = pyodbc.connect(conexaoDB)
+    except pyodbc.Error as e:
+        return(f"Falha ao Conectar: {e}")
+    except Exception as ex:
+        return(f"Ocorreu um erro inesperado: {ex}")
     except:
-        initStatus="Falha ao Conectar: SecullumAcessoNet2"
-        return(initStatus)
+        return(f"erro")
     else: 
         initStatus="Conectado com Sucesso a SecullumAcessoNet2"
     cursor = conexao.cursor()
@@ -69,4 +72,3 @@ def desativarLista(idDesativar):
     close()
     print(initStatus)
     return(0)
-    
