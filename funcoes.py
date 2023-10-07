@@ -10,22 +10,15 @@ import acessoNetDB
 def removerUsuarios():
        #definições
     log=logger.logger()
-    dbCreds=lerCred()
+    api=incontrolAPI.incontrolAPI()
 
-    #Credenciais
-    usr=str(dbCreds["username"])
-    pwd=str(dbCreds["password"])
-    srv=str(dbCreds["srv"])
-    port=str(dbCreds["port"])
-    srvadd="http://" + srv + ":" + port
+
 
     log.escrever('Inicializando Remoção de Usuários')
     #verificar se arquivo db existe, se existe cria backup, se não, cria o arquivo
 
     log.escrever('Lendo usuários do arquivo DB')
     usr_catraca=acessoNetDB.lerUsuariosAtivos()
-    log.escrever('Lendo usuários da DB da Catraca')
-    token=incontrolAPI.geratoken(usr,pwd,srvadd)
     log.escrever('Gerando Token da API Incontrol')
     crt_incontrol=incontrolAPI.recebecrt(token)
     log.escrever('Recebendo cartões da API Incontrol')

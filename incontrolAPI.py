@@ -13,260 +13,204 @@ import json
 from pickle import FALSE
 from time import sleep
 import requests
+import wiegand
 
-def lerCred():
-    # Abra o arquivo JSON para leitura
-    with open('jcred.json', 'r') as arquivo_json:
-        # Use a função load para carregar o JSON em um dicionário
-        credenciais = json.load(arquivo_json)  #Armazena as credencias em um dicionario
-        credenciais["apiserver"]="https://"+str(credenciais["srv"])+":"+str(credenciais["port"])
-        print(credenciais)
-    return(credenciais)
+class incontrolAPI:
+  def __init__(self):
+    self.credenciais=self.lerCred()
+    self.credenciais["apiserver"]="https://"+str(self.credenciais["srv"])+":"+str(self.credenciais["port"])
+    self.token=self.geratoken()
 
-#GERA O TOKEN UTILIZADO NAS TRANSAÇÕES DA API
-def geratoken():
-    credenciais=lerCred()
-    payload={
-        "username":""+credenciais["username"]+"",
-	    "password":""+credenciais["password"]+""
+  def lerCred(self):
+      # Abra o arquivo JSON para leitura
+      with open('jcred.json', 'r') as arquivo_json:
+          # Use a função load para carregar o JSON em um dicionário
+          credenciais = json.load(arquivo_json)  #Armazena as credencias em um dicionario
+          print(credenciais)
+      return(credenciais)
+
+  #GERA O TOKEN UTILIZADO NAS TRANSAÇÕES DA API
+  def geratoken(self):
+      payload={
+          "username":""+self.credenciais["username"]+"",
+        "password":""+self.credenciais["password"]+""
+      }
+      tokenadd=(self.credenciais["apiserver"] + "/v1/auth/")
+      r = requests.post(tokenadd, json=payload, verify=False)
+      data = r.json()
+      return(data['token'])
+  #}
+
+  # ENVIA USUÁRIOS PARA A API {
+  def enviausr(self,nome_completo,matricula):
+      datetime_atuais = datetime.now()
+      datetime_stamp= str("Criado via script em " + str(datetime_atuais.strftime('%d/%m/%Y')))
+      
+      payload_usr={
+    "pessoa": {
+      "nome_completo": nome_completo,
+      "cpf": "",
+      "rg": "",
+      "telefone_celular": "",
+      "email": "",
+      "veiculo": {
+        "placa_numero": "",
+        "placa_letra": "",
+        "marca": {
+          "id": ""
+        },
+        "cor": "",
+        "modelo": ""
+      },
+      "grupo": {
+        "id": 999999
+      }
+    },
+    "departamento": {
+      "id": 1
+    },
+    "matricula": matricula,
+    "tipo_usuario": {
+      "id": "N"
+    },
+    "estado": True,
+    "data_contratacao": "" ,
+    "data_demissao": "" ,
+    "observacoes": datetime_stamp,
+    "campos_personalizados": {
+      "campo_1": ""
     }
-    tokenadd=(credenciais["apiserver"] + "/v1/auth/")
-    r = requests.post(tokenadd, json=payload, verify=False)
-    data = r.json()
-    return(data['token'])
-#}
+  }
 
-# ENVIA USUÁRIOS PARA A API {
-# def enviausr(token,nome_completo,matricula):
-#     datetime_atuais = datetime.now()
-#     datetime_stamp= str("Criado via script em " + datetime_atuais.strftime('%d/%m/%Y'))
-    
-#     payload_usr={
-#   "pessoa": {
-#     "nome_completo": nome_completo,
-#     "cpf": "",
-#     "rg": "",
-#     "telefone_celular": "",
-#     "email": "",
-#     "veiculo": {
-#       "placa_numero": "",
-#       "placa_letra": "",
-#       "marca": {
-#         "id": ""
-#       },
-#       "cor": "",
-#       "modelo": ""
-#     },
-#     "grupo": {
-#       "id": 1
-#     }
-#   },
-#   "departamento": {
-#     "id": 1
-#   },
-#   "matricula": matricula,
-#   "tipo_usuario": {
-#     "id": "N"
-#   },
-#   "estado": True,
-#   "data_contratacao": "" ,
-#   "data_demissao": "" ,
-#   "observacoes": datetime_stamp,
-#   "campos_personalizados": {
-#     "campo_1": ""
-#   }
-# }
+      header_usr={
+          "Content-Type":"application/json",
+          "Authorization":"JWT " + self.token
+      }
+      tokenusr=(self.credenciais["apiserver"] + "/v1/usuario/")
+      try:
+        r = requests.post(tokenusr, headers=header_usr, json=payload_usr, verify=False)
+        data = r.json()
+      except requests.exceptions.RequestException as e:
+        return(f"Erro na solicitação: {e}")
+      except:
+        return("Erro")
+      else:
+        return(data['data'])
+  #}
 
-#     header_usr={
-#         "Content-Type":"application/json",
-#         "Authorization":"JWT " + token
-#     }
-#     tokenusr=(srvadd + "/v1/usuario/")
-#     r = requests.post(tokenusr, headers=header_usr, json=payload_usr)
-#     data = r.json()
-#     return(data['data'])
-# #}
+  #RECEBE LISTA DE USUÁRIOS DA API {
+  def recebeusr(self):
+      header_usr={
+          "Content-Type":"application/json",
+          "Authorization":"JWT " + self.token
+      }
+      tokenusr=(self.credenciais["apiserver"] + "/v1/usuario/")
+      r = requests.get(tokenusr, headers=header_usr, verify=False)
+      data = r.json()
+      pessoas={}
+      for each in data["data"]:
+        pessoas[each['matricula']]={
+            'id':each['pessoa']['id'],
+            'nome':each["pessoa"]["nome_completo"],
+            'id_geral':each["id"]
+            }
+      return(pessoas)
+      #}
 
-#RECEBE LISTA DE USUÁRIOS DA API {
-def recebeusr(token):
-    credenciais=lerCred()
+  #ENVIA CREDENCIAL PARA A API {
+  def enviacartao(self,id_pessoa,cartao):
+      header_crt={
+          "Content-Type":"application/json",
+          "Authorization":"JWT " + self.token
+      }
+
+      payload_crt={
+    "nivel": {
+      "id": "N"
+    },
+    "tipo": {
+      "id": "CT"
+    },
+    "cartao": {
+      "id": "",
+      "codigo_hexa": "",
+      "codigo_decimal": str(cartao),
+      "tamanho": {
+        "id": "26",
+      }
+    },
+    "pessoa": {
+      "id": int(id_pessoa)
+    },
+    "coacao": False,
+    "admin": False
+      }
+
+      tokencrt=(self.credenciais["apiserver"] + "/v1/credencial/")
+      r = requests.post(tokencrt, headers=header_crt, json=payload_crt, verify=False)
+      data = r.json()
+      return(data)
+  #}
+
+  #RECEBE CARTÕES CADASTRADOS NA API {
+  def recebecrt(self):
     header_usr={
         "Content-Type":"application/json",
-        "Authorization":"JWT " + token
+        "Authorization":"JWT " + self.token
     }
-    tokenusr=(credenciais["apiserver"] + "/v1/usuario/")
+    tokenusr=(self.credenciais["apiserver"] + "/v1/credencial/")
     r = requests.get(tokenusr, headers=header_usr, verify=False)
     data = r.json()
-    pessoas={}
+
+    credenciais={}
     for each in data["data"]:
-       pessoas[each['matricula']]={
-           'id':each['pessoa']['id'],
-           "nome":each["pessoa"]["nome_completo"]
-           }
-    return(pessoas)
-    #}
+       credenciais[each["cartao"]["codigo_decimal"]]={
+          'id_cartao':each["cartao"]["id"], 
+          'id_pessoa': each["pessoa"]["id"] if (each["pessoa"] != None) else 'null', 
+          'id_credencial': each["id"]
+       }
+    return(credenciais)
 
-#ENVIA CREDENCIAL PARA A API {
-def enviacartao(token,id_pessoa,cartao, verify=False):
-    header_crt={
+  #REMOVE CARTÃO CADASTRADO {
+  def removecrt(self,crt):
+
+    header_removecrt={
         "Content-Type":"application/json",
-        "Authorization":"JWT " + token
+        "Authorization":"JWT " + self.token
     }
 
-    payload_crt={
-  "nivel": {
-    "id": "N"
-  },
-  "tipo": {
-    "id": "CT"
-  },
-  "cartao": {
-    "id": "",
-    "codigo_hexa": "",
-    "codigo_decimal": str(cartao),
-    "tamanho": {
-      "id": "26",
+    token_removecrt=(self.credenciais["apiserver"] + "/v1/credencial/batch_delete")
+    payload_removecrt={
+      "ids": crt
     }
-  },
-  "pessoa": {
-    "id": int(id_pessoa)
-  },
-  "coacao": False,
-  "admin": False
+    print(payload_removecrt)
+    try:
+      r = requests.post(token_removecrt, headers=header_removecrt, json=payload_removecrt, verify=False)
+      data = r.json()
+    except requests.exceptions.RequestException as e:
+      return(f"Erro na solicitação: {e}")
+    except :
+      return("Erro")
+    else:
+      return("OK")
+
+  #REMOVE USUÁRIO DA API
+  def removeusuario(self,usuarios):
+    header_removeusuario={
+        "Content-Type":"application/json",
+        "Authorization":"JWT " + self.token
     }
-
-    tokencrt=(srvadd + "/v1/credencial/")
-    r = requests.post(tokencrt, headers=header_crt, json=payload_crt)
-    data = r.json()
-    return(data)
-#}
-
-#RECEBE CARTÕES CADASTRADOS NA API {
-def recebecrt(token):
-  header_usr={
-      "Content-Type":"application/json",
-      "Authorization":"JWT " + token
-  }
-  tokenusr=(srvadd + "/v1/credencial/")
-  r = requests.get(tokenusr, headers=header_usr)
-  data = r.json()
-  crds=data['data']
-  cnt=0
-  usr_incontrol_id={}
-  usr_incontrol=recebeusr(token)
-  usr_incontrol_keys=usr_incontrol.keys()
-  for each in usr_incontrol_keys:
-        usr_incontrol_id[usr_incontrol[each]['id']]={'matricula':each,'nome_completo':usr_incontrol[each]['nome']}
-  matriculaxcrt={}
-  while len(crds)>=cnt:
+    token_removeusuario=(self.credenciais["apiserver"] + "/v1/usuario/batch_delete")
+    payload_removeusuario={
+      "ids": usuarios
+    }
     try:
-      crds[cnt]['pessoa']['id']
+      r = requests.post(token_removeusuario, headers=header_removeusuario, json=payload_removeusuario, verify=False)
+      data = r.json()
+    except requests.exceptions.RequestException as e:
+      return(f"Erro na solicitação: {e}")
     except:
-      pass
+      return("Erro")
     else:
-      pessoa_id=int(crds[cnt]['pessoa']['id'])-3
-      pessoa_nome=(crds[cnt]['pessoa']['nome_completo'])
-      pessoa_matricula=usr_incontrol_id[pessoa_id]['matricula']
-      cartao_id=(crds[cnt]['cartao']['id'])
-      matriculaxcrt[pessoa_matricula]={'id':pessoa_id,'nome':pessoa_nome, 'cartao':cartao_id}
-    cnt+=1 
-  return(matriculaxcrt)
+      return(data)
 
-#RECEBE APENAS NUMERAÇÃO DOS CARTÕES
-def recebecrtdec(token):
-  header_usr={
-      "Content-Type":"application/json",
-      "Authorization":"JWT " + token
-  }
-  tokenusr=(srvadd + "/v1/credencial/")
-  r = requests.get(tokenusr, headers=header_usr)
-  data = r.json()
-  crds=data['data']
-  cnt=0
-  cartoesdec={}
-  while len(crds)>=cnt:
-    try:
-      crds[cnt]['pessoa']['id']
-    except:
-      pass
-    else:
-      pessoa_id=int(crds[cnt]['pessoa']['id'])-3
-      cartao_id=(crds[cnt]['cartao']['id'])
-      cartao_dec=(crds[cnt]['cartao']['codigo_decimal'])
-      cartoesdec[cartao_dec]={'id':pessoa_id,'cartao':cartao_id}
-    cnt+=1 
-  return(cartoesdec)
-
-#RECEBE CARTÕES CADASTRADOS, incluindo orfãos
-def recebecrtcadastrados(token):
-  header_usr={
-      "Content-Type":"application/json",
-      "Authorization":"JWT " + token
-  }
-  tokenusr=(srvadd + "/v1/credencial/")
-  r = requests.get(tokenusr, headers=header_usr)
-  data = r.json()
-  crds=data['data']
-  cnt=0
-  usr_incontrol_id={}
-  usr_incontrol=recebeusr(token)
-  usr_incontrol_keys=usr_incontrol.keys()
-  for each in usr_incontrol_keys:
-        usr_incontrol_id[usr_incontrol[each]['id']]={'matricula':each,'nome_completo':usr_incontrol[each]['nome']}
-  matriculaxcrt={}
-  for todes in crds.keys():
-    try:
-      crds[todes]['pessoa']['id'] #<-------------------------- parei aqui. Rodar as pessoas e ver se tem cartões (Identificar orfãos)
-    except:
-      pass
-    else:
-      pessoa_id=int(crds[cnt]['pessoa']['id'])-3
-      pessoa_nome=(crds[cnt]['pessoa']['nome_completo'])
-      pessoa_matricula=usr_incontrol_id[pessoa_id]['matricula']
-      cartao_id=(crds[cnt]['cartao']['id'])
-      matriculaxcrt[pessoa_matricula]={'id':pessoa_id,'nome':pessoa_nome, 'cartao':cartao_id}
-    cnt+=1 
-  return(matriculaxcrt)
-
-#REMOVE CARTÃO CADASTRADO {
-def removecrt(crt):
-  token=geratoken(usr,pwd,srvadd)
-  header_removecrt={
-      "Content-Type":"application/json",
-      "Authorization":"JWT " + token
-  }
-
-  token_removecrt=(srvadd + "/v1/credencial/batch_delete")
-  payload_removecrt={
-    "ids": [crt]
-  }
-
-  r = requests.post(token_removecrt, headers=header_removecrt, json=payload_removecrt)
-  data = r.json()
-  print(str(data))
-  return(0)
-
-
-
-#REMOVE USUÁRIO DA API
-def removeusuario(usuario):
-  token=geratoken(usr,pwd,srvadd)
-  header_removeusuario={
-      "Content-Type":"application/json",
-      "Authorization":"JWT " + token
-  }
-  token_removeusuario=(srvadd + "/v1/usuario/batch_delete")
-  payload_removeusuario={
-    "ids": [usuario]
-  }
-
-  r = requests.post(token_removeusuario, headers=header_removeusuario, json=payload_removeusuario)
-  data = r.json()
-  return(0)
-
-
-
-var=(recebeusr(geratoken()))
-print(var['123582'])
-# crt_cad=recebecrtcadastrados(tkn)
-# print(crt_cad)

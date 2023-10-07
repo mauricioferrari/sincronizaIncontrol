@@ -161,3 +161,4 @@ cython_debug/
 
 #Arquivos modelo iniciados com _sample
 _sample*
+log_*
